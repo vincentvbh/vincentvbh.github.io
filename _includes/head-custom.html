@@ -2,6 +2,26 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]},
+    TeX: {
+      Macros: {
+        Otimes: '{\\bigotimes}',
+        ideal: ['\\left\\langle {#1} \\right\\rangle', 1],
+        set: ['\\{ #1 \\}', 1],
+        mZ: '{\\mathbb{Z}}',
+        mN: '{\\mathbb{N}}',
+        mQ: '{\\mathbb{Q}}',
+        mC: '{\\mathbb{C}}',
+        mR: '{\\mathbb{R}}',
+        calD: '{\\mathcal{D}}',
+        calI: '{\\mathcal{I}}',
+        calQ: '{\\mathcal{Q}}',
+        ba: '\\boldsymbol{a}',
+        bb: '\\boldsymbol{b}',
+        bc: '\\boldsymbol{c}',
+        br: '\\boldsymbol{r}',
+        bold: ['\\boldsymbol{#1}', 1]   
+      }
+    }
   });
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-MML-AM_CHTML"></script>
