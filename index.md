@@ -1,0 +1,42 @@
+
+
+Hi, there. I'm Vincent Hwang.
+I'm currently a master's student at National Taiwan University.
+I'm focusing on implementing polynomial multiplications and number-theoretic transforms used in lattice-based cryptosystems.
+
+Previously, I was working on graph-theoretic interpretations of algorithmic partial order problems,
+which are vast generalizations of sorting problems.
+
+# Research Interest
+- Implementing number-theoretic transforms with Armv7-M, Armv7E-M, and Armv8-A.
+- Algorithmic partial order problems
+- Graph algorithms
+
+# Publications
+- Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms
+    - With Hanno Becker, Matthias J. Kannwischer, Lorenz Panny, and Bo-Yin Yang
+    - IWSEC 2022 [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [eprint](https://eprint.iacr.org/2022/439)
+- Faster Kyber and Dilithium on the Cortex-M4
+    - With Amin Abdulrahman, Matthias J. Kannwischer, and Daan Sprenkels
+    - ACNS 2022 [paper](https://link.springer.com/chapter/10.1007/978-3-031-09234-3_42) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [eprint](https://eprint.iacr.org/2022/112)
+- Neon NTT: Faster Dilithium, Kyber, and Saber on Cortex-A72 and Apple M1
+    - With Hanno Becker, Matthias J. Kannwischer, Bo-Yin Yang, and Shang-Yi Yang
+    - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9295) [code](https://github.com/neon-ntt/neon-ntt) [eprint](https://eprint.iacr.org/2021/986)
+- Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4
+    - With Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, Matthias J. Kannwischer, and Bo-Yin Yang
+    - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9292) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [eprint](https://eprint.iacr.org/2021/995)
+- NTT Multiplication for NTT-unfriendly Rings
+    - With Chi-Ming Marvin Chung, Matthias J. Kannwischer, Gregor Seiler, Cheng-Jhih Shih, and Bo-Yin Yang
+    - TCHES 2021 [paper](https://tches.iacr.org/index.php/TCHES/article/view/8791) [code](https://github.com/ntt-polymul/ntt-polymul) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slide](https://iacr.org/submit/files/slides/2021/ches/ches2021/30796/slides.pdf) [eprint](https://eprint.iacr.org/2020/1397)
+- Polynomial Multiplication in NTRU Prime
+    - With Erdem Alkim, Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and Bo-Yin Yang
+    - TCHES 2021 [paper](https://tches.iacr.org/index.php/TCHES/article/view/8733) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slide](https://iacr.org/submit/files/slides/2021/ches/ches2021/30766/slides.pdf) [eprint](https://eprint.iacr.org/2020/1216)
+
+
+
+
+
+# Notes
+- [Fast Fourier Transforms](./FFT.html)
+- [Sorting Algorithms and Graph Entropy](./sort.html)
+
