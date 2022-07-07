@@ -4,7 +4,7 @@
 This page explains the Chinese remainder theorem for rings.
 
 ## Objectives
-Let $R$ be a ring, $\mathcal{I} = {1, \dots, m}$ be an index set, and $(I_i)\_{i \in \mathcal{I}}$ be a system of pair-wise coprime ideals.
+Let $R$ be a ring, $\mathcal{I} = \\{0, \dots, m - 1\\}$ be an index set, and $(I_i)\_{i \in \mathcal{I}}$ be a system of pair-wise coprime ideals.
 - Then, we have an isomorphism $\eta$ for
     \\[
     \frac{R}{\bigcap_{i \in \mathcal{I}} I_i} \cong \prod_{i \in \mathcal{I}} \frac{R}{I_i}.
