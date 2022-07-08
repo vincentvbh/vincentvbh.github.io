@@ -1,8 +1,21 @@
 
 
 Hi, there. I'm Vincent Hwang.
-I'm currently a master's student at National Taiwan University.
-I'm focusing on implementing polynomial multiplications and number-theoretic transforms used in lattice-based cryptosystems.
+Recently, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰).
+I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+In particular, I was (and am) focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
+My master thesis focuses on the following platforms:
+- Cortex-M3:
+    - Saber
+- Cortex-M4:
+    - NTRU
+    - NTRU Prime
+    - Saber
+- Cortex-A72:
+    - Dilithium
+    - Kyber
+    - Saber
+You can find the details [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
 Previously, I was working on graph-theoretic interpretations of algorithmic partial order problems,
 which are vast generalizations of sorting problems.
