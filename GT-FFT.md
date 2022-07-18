@@ -19,6 +19,24 @@ Let $R$ be a ring, $\calD = \set{0, \dots, d - 1 }$ be an index set, $q_\calD$ b
 
 ## "A" Multi-Dimensional Transform
 
+We begin with multiplying two polynomials $\ba(x) = \sum_{i = 0}^5 a_i x^i$ and $\bb(x) = \sum_{i = 0}^5 b_i x^i$ in
+the polynomial ring $\frac{R[x]}{\ideal{x^6 - 1}}$.
+It is clear that the result $\bc(x) = \sum_{i = 0}^5 c_i x^i$ is
+\\[
+\begin{pmatrix}
+c_0 \\
+c_1 \\
+c_2 \\
+c_3 \\
+c_4 \\
+c_5 \\
+\end{pmatrix}
+=
+\begin{pmatrix}
+a
+\end{pmatrix}
+\\]
+
 ### Examples
 
 ## Convolutions
