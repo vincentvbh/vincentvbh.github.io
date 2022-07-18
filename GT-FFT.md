@@ -23,18 +23,18 @@ We begin with multiplying two polynomials $\ba(x) = \sum_{i = 0}^5 a_i x^i$ and 
 the polynomial ring $\frac{R[x]}{\ideal{x^6 - 1}}$.
 It is clear that the result $\bc(x) = \sum_{i = 0}^5 c_i x^i$ is
 \\[
-\begin{pmatrix}
+\\begin{pmatrix}
 c_0 \\\\
 c_1 \\\\
 c_2 \\\\
 c_3 \\\\
 c_4 \\\\
 c_5 \\\\
-\end{pmatrix}
+\\end{pmatrix}
 =
-\begin{pmatrix}
+\\begin{pmatrix}
 a
-\end{pmatrix}
+\\end{pmatrix}
 \\]
 
 ### Examples
