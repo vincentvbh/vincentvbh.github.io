@@ -24,16 +24,9 @@ the polynomial ring $\frac{R[x]}{\ideal{x^6 - 1}}$.
 It is clear that the result $\bc(x) = \sum_{i = 0}^5 c_i x^i$ is
 \\[
 \\begin{pmatrix}
-c_0 \\\\
-c_1 \\\\
-c_2 \\\\
-c_3 \\\\
-c_4 \\\\
-c_5 \\\\
-\\end{pmatrix}
-=
-\\begin{pmatrix}
-a
+c_0 & 1 \\\\
+c_1 & 1 \\\\
+c_2 & 1 \\\\
 \\end{pmatrix}
 \\]
 
