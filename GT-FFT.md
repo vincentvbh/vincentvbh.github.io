@@ -170,8 +170,22 @@ a_0' b_2' - a_3' b_5' + a_1' b_1' - a_4' b_4' + a_2' b_0' - a_5' b_3' \\newline
 2 a_0 b_0 + 2 a_3 b_3 + 2 a_1 a_5 + 2 a_4 b_2 + 2 a_2 b_4 + 2 a_5 b_1 \\newline
 2 a_0 b_1 + 2 a_3 b_4 + 2 a_1 b_0 + 2 a_4 b_3 + 2 a_2 b_5 + 2 a_5 b_2 \\newline
 2 a_0 b_2 + 2 a_3 b_5 + 2 a_1 b_1 + 2 a_4 b_4 + 2 a_2 b_0 + 2 a_5 b_3 \\newline
+2 a_0 b_3 + 2 a_3 b_0 + 2 a_1 b_2 + 2 a_5 b_4 + 2 a_2 b_1 + 2 a_5 b_4 \\newline
+2 a_0 b_4 + 2 a_3 b_1 + 2 a_1 b_3 + 2 a_4 b_0 + 2 a_2 b_2 + 2 a_5 b_5 \\newline
+2 a_0 b_5 + 2 a_3 b_2 + 2 a_1 b_4 + 2 a_4 b_1 + 2 a_2 b_3 + 2 a_5 b_0 \\newline
+\\end{pmatrix}
+=
+2
+\\begin{pmatrix}
+c_0 \\newline
+c_1 \\newline
+c_2 \\newline
+c_3 \\newline
+c_4' \\newline
+c_5 \\newline
 \\end{pmatrix}
 \\]
+as desired.
 
 
 
