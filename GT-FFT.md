@@ -102,28 +102,19 @@ a_0' b_2' + a_1' b_1' + a_2' b_0' \\newline
 and
 \\[
 \\begin{pmatrix}
-c_4' \\newline
-c_5' \\newline
-c_6' \\newline
-\\end{pmatrix}
-=
-\\begin{pmatrix}
-a_4' b_4' + a_5' b_6' + a_6' b_5' \\newline
-a_4' b_5' + a_5' b_4' + a_6' b_6' \\newline
-a_4' b_6' + a_5' b_5' + a_6' b_4' \\newline
-\\end{pmatrix}.
-\\]
-We claim that
-\\[
-\\begin{pmatrix}
-c_0' \\newline
-c_1' \\newline
-c_2' \\newline
 c_3' \\newline
 c_4' \\newline
 c_5' \\newline
 \\end{pmatrix}
 =
+\\begin{pmatrix}
+a_3' b_3' + a_4' b_5' + a_5' b_4' \\newline
+a_3' b_4' + a_4' b_3' + a_5' b_5' \\newline
+a_3' b_5' + a_4' b_4' + a_5' b_3' \\newline
+\\end{pmatrix}.
+\\]
+We claim that
+\\[
 2
 \\begin{pmatrix}
 c_0 \\newline
@@ -132,8 +123,39 @@ c_2 \\newline
 c_3 \\newline
 c_4' \\newline
 c_5 \\newline
+\\end{pmatrix}
+=
+\\begin{pmatrix}
+c_0' + c_3' \\newline
+-c_1' + c_4' \\newline
+c_2' + c_5' \\newline
+c_0' - c_3' \\newline
+c_1' + c_4' \\newline
+c_2' - c_5' \\newline
 \\end{pmatrix}.
 \\]
+
+We verify this as follows:
+\\[
+\\begin{pmatrix}
+c_0' + c_3' \\newline
+-c_1' + c_4' \\newline
+c_2' + c_5' \\newline
+c_0' - c_3' \\newline
+c_1' + c_4' \\newline
+c_2' - c_5' \\newline
+\\end{pmatrix}
+=
+\\begin{pmatrix}
+a_0' b_0' + a_1' b_2' + a_2' b_1' + (a_3' b_3' + a_4' b_5' + a_5' b_4') \\newline
+-(a_0' b_1' + a_1' b_0' + a_2' b_2') + (a_3' b_4' + a_4' b_3' + a_5' b_5') \\newline
+a_0' b_2' + a_1' b_1' + a_2' b_0' + (a_3' b_5' + a_4' b_4' + a_5' b_3') \\newline
+a_0' b_0' + a_1' b_2' + a_2' b_1' - (a_3' b_3' + a_4' b_5' + a_5' b_4') \\newline
+(a_0' b_1' + a_1' b_0' + a_2' b_2') + (a_3' b_4' + a_4' b_3' + a_5' b_5') \\newline
+a_0' b_2' + a_1' b_1' + a_2' b_0' - (a_3' b_5' + a_4' b_4' + a_5' b_3') \\newline
+\\end{pmatrix}
+\\]
+
 
 ### Examples
 
