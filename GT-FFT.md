@@ -148,7 +148,7 @@ c_2' - c_5' \\newline
 =
 \\begin{pmatrix}
 a_0' b_0' + a_1' b_2' + a_2' b_1' + a_3' b_3' + a_4' b_5' + a_5' b_4' \\newline
--a_0' b_1' - a_1' b_0' - a_2' b_2' + a_3' b_4' + a_4' b_3' + a_5' b_5' \\newline
+a_0' b_1' + a_1' b_0' + a_2' b_2' - a_3' b_4' - a_4' b_3' - a_5' b_5' \\newline
 a_0' b_2' + a_1' b_1' + a_2' b_0' + a_3' b_5' + a_4' b_4' + a_5' b_3' \\newline
 a_0' b_0' + a_1' b_2' + a_2' b_1' - a_3' b_3' - a_4' b_5' - a_5' b_4' \\newline
 a_0' b_1' + a_1' b_0' + a_2' b_2' + a_3' b_4' + a_4' b_3' + a_5' b_5' \\newline
@@ -157,7 +157,7 @@ a_0' b_2' + a_1' b_1' + a_2' b_0' - a_3' b_5' - a_4' b_4' - a_5' b_3' \\newline
 =
 \\begin{pmatrix}
 a_0' b_0' + a_3' b_3' + a_1' b_2' + a_4' b_5' + a_2' b_1' + a_5' b_4' \\newline
--a_0' b_1' + a_3' b_4' - a_1' b_0' + a_4' b_3' - a_2' b_2' + a_5' b_5' \\newline
+a_0' b_1' - a_3' b_4' + a_1' b_0' - a_4' b_3' + a_2' b_2' - a_5' b_5' \\newline
 a_0' b_2' + a_3' b_5' + a_1' b_1' + a_4' b_4' + a_2' b_0' + a_5' b_3' \\newline
 a_0' b_0' - a_3' b_3' + a_1' b_2' - a_4' b_5' + a_2' b_1' - a_5' b_4' \\newline
 a_0' b_1' + a_3' b_4' + a_1' b_0' + a_4' b_3' + a_2' b_2' + a_5' b_5' \\newline
@@ -167,7 +167,7 @@ a_0' b_2' - a_3' b_5' + a_1' b_1' - a_4' b_4' + a_2' b_0' - a_5' b_3' \\newline
 \\[
 =
 \\begin{pmatrix}
-2 a_0 b_0 + 2 a_3 b_3 \\newline
+2 a_0 b_0 + 2 a_3 b_3 + 2 a_4 b_2 + 2 a_1 a_5 + 2 a_2 b_4 + 2 a_5 b_1 \\newline
 \\end{pmatrix}
 \\]
 
