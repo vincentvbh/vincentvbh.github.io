@@ -43,7 +43,7 @@ a_0 b_5 + a_1 b_4 + a_2 b_3 + a_3 b_2 + a_4 b_1 + a_5 b_0
 \\]
 requiring $36$ multiplications and $30$ additions.
 
-We begin by proposing the following computation with only $24$ multiplications and $30$ additions/subtractions.
+We propose the following computations with only $24$ multiplications and $30$ additions/subtractions.
 We first compute
 \\[
 \\begin{pmatrix}
@@ -82,7 +82,36 @@ b_2 + b_5 \\newline
 b_0 - b_3 \\newline
 b_1 + b_4 \\newline
 b_2 - b_5 \\newline
+\\end{pmatrix}.
+\\]
+Then, we convolute $(a_0', a_1', a_2')$ with $(b_0', b_1', b_2')$ and $(a_3', a_4', a_5')$ with $(b_3', b_4', b_5')$.
+Now we have
+\\[
+\\begin{pmatrix}
+c_0' \\newline
+c_1' \\newline
+c_2' \\newline
 \\end{pmatrix}
+=
+\\begin{pmatrix}
+a_0' b_0' + a_1' b_2' + a_2' b_1' \\newline
+a_0' b_1' + a_1' b_0' + a_2' b_2' \\newline
+a_0' b_2' + a_1' b_1' + a_2' b_0' \\newline
+\\end{pmatrix}
+\\]
+and
+\\[
+\\begin{pmatrix}
+c_4' \\newline
+c_5' \\newline
+c_6' \\newline
+\\end{pmatrix}
+=
+\\begin{pmatrix}
+a_4' b_4' + a_5' b_6' + a_6' b_5' \\newline
+a_4' b_5' + a_5' b_4' + a_6' b_6' \\newline
+a_4' b_6' + a_5' b_5' + a_6' b_4' \\newline
+\\end{pmatrix}.
 \\]
 
 ### Examples
