@@ -39,6 +39,49 @@ a_0 b_2 + a_1 b_1 + a_2 b_0 + a_3 b_5 + a_4 b_4 + a_5 b_3 \\newline
 a_0 b_3 + a_1 b_2 + a_2 b_1 + a_3 b_0 + a_4 b_5 + a_5 b_4 \\newline
 a_0 b_4 + a_1 b_3 + a_2 b_2 + a_3 b_1 + a_4 b_0 + a_5 b_5 \\newline
 a_0 b_5 + a_1 b_4 + a_2 b_3 + a_3 b_2 + a_4 b_1 + a_5 b_0
+\\end{pmatrix},
+\\]
+requiring $36$ multiplications and $30$ additions.
+
+We begin by proposing the following computation with only $24$ multiplications and $30$ additions/subtractions.
+We first compute
+\\[
+\\begin{pmatrix}
+a_0' \\newline
+a_1' \\newline
+a_2' \\newline
+a_3' \\newline
+a_4' \\newline
+a_5' \\newline
+\\end{pmatrix}
+=
+\\begin{pmatrix}
+a_0 + a_3 \\newline
+-a_1 + a_4 \\newline
+a_2 + a_5 \\newline
+a_0 - a_3 \\newline
+a_1 + a_4 \\newline
+a_2 - a_5 \\newline
+\\end{pmatrix}
+\\]
+and
+\\[
+\\begin{pmatrix}
+b_0' \\newline
+b_1' \\newline
+b_2' \\newline
+b_3' \\newline
+b_4' \\newline
+b_5' \\newline
+\\end{pmatrix}
+=
+\\begin{pmatrix}
+b_0 + b_3 \\newline
+-b_1 + b_4 \\newline
+b_2 + b_5 \\newline
+b_0 - b_3 \\newline
+b_1 + b_4 \\newline
+b_2 - b_5 \\newline
 \\end{pmatrix}
 \\]
 
