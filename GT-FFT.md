@@ -113,6 +113,27 @@ a_4' b_5' + a_5' b_4' + a_6' b_6' \\newline
 a_4' b_6' + a_5' b_5' + a_6' b_4' \\newline
 \\end{pmatrix}.
 \\]
+We claim that
+\\[
+\\begin{pmatrix}
+c_0' \\newline
+c_1' \\newline
+c_2' \\newline
+c_3' \\newline
+c_4' \\newline
+c_5' \\newline
+\\end{pmatrix}
+=
+2
+\\begin{pmatrix}
+c_0 \\newline
+c_1 \\newline
+c_2 \\newline
+c_3 \\newline
+c_4' \\newline
+c_5 \\newline
+\\end{pmatrix}.
+\\]
 
 ### Examples
 
