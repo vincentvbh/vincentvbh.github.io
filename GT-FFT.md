@@ -57,10 +57,10 @@ a_5' \\newline
 =
 \\begin{pmatrix}
 a_0 + a_3 \\newline
--a_1 + a_4 \\newline
+a_1 + a_4 \\newline
 a_2 + a_5 \\newline
 a_0 - a_3 \\newline
-a_1 + a_4 \\newline
+-a_1 + a_4 \\newline
 a_2 - a_5 \\newline
 \\end{pmatrix}
 \\]
@@ -77,10 +77,10 @@ b_5' \\newline
 =
 \\begin{pmatrix}
 b_0 + b_3 \\newline
--b_1 + b_4 \\newline
+b_1 + b_4 \\newline
 b_2 + b_5 \\newline
 b_0 - b_3 \\newline
-b_1 + b_4 \\newline
+-b_1 + b_4 \\newline
 b_2 - b_5 \\newline
 \\end{pmatrix}.
 \\]
@@ -127,7 +127,7 @@ c_5 \\newline
 =
 \\begin{pmatrix}
 c_0' + c_3' \\newline
--c_1' + c_4' \\newline
+c_1' - c_4' \\newline
 c_2' + c_5' \\newline
 c_0' - c_3' \\newline
 c_1' + c_4' \\newline
@@ -139,7 +139,7 @@ We verify this as follows:
 \\[
 \\begin{pmatrix}
 c_0' + c_3' \\newline
--c_1' + c_4' \\newline
+c_1' - c_4' \\newline
 c_2' + c_5' \\newline
 c_0' - c_3' \\newline
 c_1' + c_4' \\newline
@@ -154,27 +154,23 @@ a_0' b_0' + a_1' b_2' + a_2' b_1' - a_3' b_3' - a_4' b_5' - a_5' b_4' \\newline
 a_0' b_1' + a_1' b_0' + a_2' b_2' + a_3' b_4' + a_4' b_3' + a_5' b_5' \\newline
 a_0' b_2' + a_1' b_1' + a_2' b_0' - a_3' b_5' - a_4' b_4' - a_5' b_3' \\newline
 \\end{pmatrix}
-\\]
-\\[
+=
 \\begin{pmatrix}
-(a_0 + a_3) (b_0 + b_3) + (-a_1 + a_4) (b_2 + b_5) + (a_2 + a_5) (-b_1 + b_4) + (a_0 - a_3) (b_0 - b_3) + (a_1 + a_4) (b_2 - b_5) + (a_2 - a_5) (b_1 + b_4) \\newline
--(a_0 + a_3) (-b_1 + b_4) - (-a_1 + a_4) (b_0 + b_3) - (a_2 + a_5) (b_2 + b_5) + (a_0 - a_3) (b_1 + b_4) + (a_1 + a_4) (b_0 - b_3) + (a_2 - a_5) (b_2 - b_5) \\newline
-(a_0 + a_3) (b_2 + b_5) + (-a_1 + a_4) (-b_1 + b_4) + (a_2 + a_5) (b_0 + b_3) + (a_0 - a_3) (b_2 - b_5) + (a_1 + a_4) (b_1 + b_4) + (a_2 - a_5) (b_0 - b_3) \\newline
-(a_0 + a_3) (b_0 + b_3) + (-a_1 + a_4) (b_2 + b_5) + (a_2 + a_5) (-b_1 + b_4) - (a_0 - a_3) (b_0 - b_3) - (a_1 + a_4) (b_2 - b_5) - (a_2 - a_5) (b_1 + b_4) \\newline
-(a_0 + a_3) (-b_1 + b_4) + (-a_1 + a_4) (b_0 + b_3) + (a_2 + a_5) (b_2 + b_5) + (a_0 - a_3) (b_1 + b_4) + (a_1 + a_4) (b_0 - b_3) + (a_2 - a_5) (b_2 - b_5) \\newline
-(a_0 + a_3) (b_2 + b_5) + (-a_1 + a_4) (-b_1 + b_4) + (a_2 + a_5) (b_0 + b_3) - (a_0 - a_3) (b_2 - b_5) - (a_1 + a_4) (b_1 + b_4) - (a_2 - a_5) (b_0 - b_3) \\newline
+a_0' b_0' + a_3' b_3' + a_1' b_2' + a_4' b_5' + a_2' b_1' + a_5' b_4' \\newline
+-a_0' b_1' + a_3' b_4' - a_1' b_0' + a_4' b_3' - a_2' b_2' + a_5' b_5' \\newline
+a_0' b_2' + a_3' b_5' + a_1' b_1' + a_4' b_4' + a_2' b_0' + a_5' b_3' \\newline
+a_0' b_0' - a_3' b_3' + a_1' b_2' - a_4' b_5' + a_2' b_1' - a_5' b_4' \\newline
+a_0' b_1' + a_3' b_4' + a_1' b_0' + a_4' b_3' + a_2' b_2' + a_5' b_5' \\newline
+a_0' b_2' - a_3' b_5' + a_1' b_1' - a_4' b_4' + a_2' b_0' - a_5' b_3' \\newline
 \\end{pmatrix}
 \\]
 \\[
+=
 \\begin{pmatrix}
-(a_0 + a_3) (b_0 + b_3) + (a_0 - a_3) (b_0 - b_3) + (-a_1 + a_4) (b_2 + b_5) + (a_1 + a_4) (b_2 - b_5) + (a_2 + a_5) (-b_1 + b_4) + (a_2 - a_5) (b_1 + b_4) \\newline
--(a_0 + a_3) (-b_1 + b_4) + (a_0 - a_3) (b_1 + b_4) - (-a_1 + a_4) (b_0 + b_3) + (a_1 + a_4) (b_0 - b_3) - (a_2 + a_5) (b_2 + b_5) + (a_2 - a_5) (b_2 - b_5) \\newline
-(a_0 + a_3) (b_2 + b_5) + (a_0 - a_3) (b_2 - b_5) + (-a_1 + a_4) (-b_1 + b_4) + (a_1 + a_4) (b_1 + b_4) + (a_2 + a_5) (b_0 + b_3) + (a_2 - a_5) (b_0 - b_3) \\newline
-(a_0 + a_3) (b_0 + b_3) - (a_0 - a_3) (b_0 - b_3) + (-a_1 + a_4) (b_2 + b_5) - (a_1 + a_4) (b_2 - b_5) + (a_2 + a_5) (-b_1 + b_4) - (a_2 - a_5) (b_1 + b_4) \\newline
-(a_0 + a_3) (-b_1 + b_4) + (a_0 - a_3) (b_1 + b_4) + (-a_1 + a_4) (b_0 + b_3) + (a_1 + a_4) (b_0 - b_3) + (a_2 + a_5) (b_2 + b_5) + (a_2 - a_5) (b_2 - b_5) \\newline
-(a_0 + a_3) (b_2 + b_5) - (a_0 - a_3) (b_2 - b_5) + (-a_1 + a_4) (-b_1 + b_4) - (a_1 + a_4) (b_1 + b_4) + (a_2 + a_5) (b_0 + b_3) - (a_2 - a_5) (b_0 - b_3) \\newline
+2 a_0 b_0 + 2 a_3 b_3 \\newline
 \\end{pmatrix}
 \\]
+
 
 
 ### Examples
