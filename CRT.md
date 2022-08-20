@@ -94,10 +94,11 @@ Clearly, if the observations hold, we have $(1 - e_1) R \cap (1 - e_2) R = \set{
     We show $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$ as follows:
     \\[
     \\begin{aligned}
-    \left( (1 - e_1) R \right) \left( (1 - e_2) R \right)
-    \\& = \\& \\& \set{ \sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} | r_{1, i}, r_{2, i} \in R } \\newline
-    \\& = \\& \\& \set{ \sum_{i = 1}^m (1 - e_2) r_{1, i} (1 - e_1) r_{2, i} | r_{1, i}, r_{2, i} \in R } \\newline
-    \\& = \\& \\& \left( (1 - e_2) R \right) \left( (1 - e_1) R \right) \\newline
+    c
+    \\& = \\& \\& b \\newline
+    \\& = \\& \\& b \\newline
+    \\& = \\& \\& a \\newline
+    \\end{aligned}
     \\]
     Therefore, we have $(1 - e_1) R \cap (1 - e_2) R = \left( (1 - e_1) R \right) \left( (1 - e_2) R \right) + \left( (1 - e_2) R \right) \left( (1 - e_1) R \right) = \left( (1 - e_1) R \right) \left( (1 - e_2) R \right)$.
 
