@@ -95,9 +95,9 @@ Clearly, if the observations hold, we have $(1 - e_1) R \cap (1 - e_2) R = \set{
     \\[
     \\begin{aligned}
     c
-    \\& = \\& \\& b \\newline
-    \\& = \\& \\& b \\newline
-    \\& = \\& \\& a \\newline
+    \& = \& \& b \\newline
+    \& = \& \& b \\newline
+    \& = \& \& a \\newline
     \\end{aligned}
     \\]
     Therefore, we have $(1 - e_1) R \cap (1 - e_2) R = \left( (1 - e_1) R \right) \left( (1 - e_2) R \right) + \left( (1 - e_2) R \right) \left( (1 - e_1) R \right) = \left( (1 - e_1) R \right) \left( (1 - e_2) R \right)$.
