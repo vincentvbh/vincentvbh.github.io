@@ -91,12 +91,20 @@ Clearly, if the observations hold, we have $(1 - e_1) R \cap (1 - e_2) R = \set{
 - Proof for $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) =  (1 - e_1) R \cap (1 - e_2) R$.
     - We first recall that for two coprime ideals $I_0$ and $I_1$, $I_0 \cap I_1 = I_0 I_1 + I_1 I_0$. 
     For the proof, please refer to the supplementary material.
-    Once we show that $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$, 
+    We show $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$ as follows:
+    \\[
+    \left( (1 - e_1) R \right) \left( (1 - e_2) R \right) =
+    \set{ \sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} | r_{1, i}, r_{2, i} \in R } =
+    \set{ \sum_{i = 1}^m (1 - e_2) r_{1, i} (1 - e_1) r_{2, i} | r_{1, i}, r_{2, i} \in R } =
+    \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)
+    \\]
+
+<!--     Once we show that $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$,
     we prove the observation.
     Let $r_{1, 1}, \dots, r_{1, m}, r_{2, 1}, \dots, r_{2, m}$ be arbitrary elements in $R$, 
     since $\sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} = \sum_{i = 1}^m (1 - e_2) r_{1, i} (1 - e_1) r_{2, i}$, 
     we have $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$ as desired. 
-
+ -->
 - Proof for $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \set{0}$.
     - Since for arbitrary $r_0, r_1 \in R$, $(1 - e_1) r_0 (1 - e_2) r_1 = (1 - (e_1 + e_2)) r_0 r_1 = 0$, we have for arbitrary $r_{1, 1}, \dots, r_{1, m}, r_{2, 1}, \dots, r_{2, m} \in R$, $\sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} = 0$.
     Therefore, $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \set{(1 - e_1) r_0 + (1 - e_2) r_1 | r_0, r_1 \in R} = \set{0}$ as desired.
