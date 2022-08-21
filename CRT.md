@@ -72,9 +72,10 @@ The Chinese remainder theorem for rings is closely related to a system of pair-w
 
 ### Case of two orthogonal central idempotent elements
 
-Given two orthogonal central idempotent elements $e_1$ and $e_2$ in $R$ with $e_1 + e_2 = 1$. We claim the following.
-- $(1 - e_1) R$ and $(1 - e_2) R$ are coprime.
-- $(1 - e_1) R \cap (1 - e_2) R = \set{0}$.
+Let $e_0, e_1 \in R$ be two orthogonal central idempotent elements with $e_0 + e_1 = 1$ and define $I_0 = (1 - e_0) R$ and $I_1 = (1 - e_1) R$.
+We claim the following.
+- $I_0$ and $I_1$ are coprime.
+- $I_0 \cap I_1 = \set{0}$.
 
 For showing $(1 - e_1) R \cap (1 - e_2) R = \set{0}$, we will prove the following observations.
 - $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) =  (1 - e_1) R \cap (1 - e_2) R$.
@@ -93,7 +94,7 @@ Clearly, if the observations hold, we have $(1 - e_1) R \cap (1 - e_2) R = \set{
     For the proof, please refer to the supplementary material.
     Once we show that $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$,
     we prove the observation.
-    Let $r_{1, 1}, \dots, r_{1, m}, r_{2, 1}, \dots, r_{2, m}$ be arbitrary elements in $R$, 
+    Let $r_{1, 1}$, $\dots$, $r_{1, m}$, $r_{2, 1}$, $\dots$, $r_{2, m}$ be arbitrary elements in $R$,
     since $\sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} = \sum_{i = 1}^m (1 - e_2) r_{1, i} (1 - e_1) r_{2, i}$, 
     we have $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$ as desired. 
 
