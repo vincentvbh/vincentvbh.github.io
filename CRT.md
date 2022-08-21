@@ -121,7 +121,7 @@ Similarly, for showing $\bigcap_{i \in \calI} I_i = \set{0}$, we will prove the 
 - Proof for $\prod_{i \in \calI} I_i = \bigcap_{i \in \calI} I_i$.
     - We proceed similarly by first recalling $\bigcap_{i \in \calI} J_i = \sum_{\pi \in S_m} \prod_{i \in \calI} J_{\pi(i)}$ for mutually coprime ideals $J_\calI$.
         The proof is given as a supplementary material.
-        We now claim that for arbitrary $\pi_1, \pi_2 \in S_m$, $\prod_{i \in \calI} I_{\pi_1(i)} = \prod_{i \in \calI} I_{\pi_1(i)}$.
+        We now claim that for arbitrary $\pi_0, \pi_1 \in S_m$, $\prod_{i \in \calI} I_{\pi_0(i)} = \prod_{i \in \calI} I_{\pi_1(i)}$.
         This is immediate since we know that for $i \neq j$, $I_i I_j = I_j I_i$.
         We conclude that $\bigcap_{i \in \calI} I_i = \sum_{\pi \in S_m} \prod_{i \in \calI} I_{\pi(i)} = \prod_{i \in \calI} I_i$.
 - Proof for $\prod_{i \in \calI} I_i = \set{0}$.
@@ -142,18 +142,18 @@ TBA
 
 # Supplementary
 
-- Let $I_\calI$ be pair-wise coprime ideals of $R$. We have
+- Let $J_\calI$ be pair-wise coprime ideals of $R$. We have
     \\[
-    \bigcap_{i \in \calI} I_i = \sum_{\pi \in S_m} \prod_{i \in \calI} I_{\pi(i)}
+    \bigcap_{i \in \calI} J_i = \sum_{\pi \in S_m} \prod_{i \in \calI} J_{\pi(i)}
     \\]
     where $S_m$ is the symmetric group defined on a set of $m$ elements.
-    Since $\sum_{\pi \in S_m} \prod_{i \in \calI} I_{\pi(i)} \subseteq \bigcap_{i \in \calI} I_i$ by the definition of ideals, we only need to show $\bigcap_{i \in \calI} I_i \subseteq \sum_{\pi \in S_m} \prod_{i \in \calI} I_{\pi(i)}$.
+    Since $\sum_{\pi \in S_m} \prod_{i \in \calI} J_{\pi(i)} \subseteq \bigcap_{i \in \calI} J_i$ by the definition of ideals, we only need to show $\bigcap_{i \in \calI} J_i \subseteq \sum_{\pi \in S_m} \prod_{i \in \calI} J_{\pi(i)}$.
     We prove by induction on $m$ as follows.
-    - $m = 2$: since there are elements $r_0 \in I_0$ and $r_1 \in I_1$ with $r_0 + r_1 = 1$, 
-        we write an element $x \in I_0 \cap I_1$ as $x = x(r_0 + r_1) = x r_0 + x r_1 \in I_1 I_0 + I_0 I_1$, and therefore $I_0 \cap I_1 \subseteq I_0 I_1 + I_1 I_0$.
+    - $m = 2$: since there are elements $e_0 \in J_0$ and $e_1 \in J_1$ with $e_0 + e_1 = 1$,
+        we write an element $x \in I_0 \cap I_1$ as $x = x(e_0 + e_1) = x e_0 + x e_1 \in J_1 J_0 + J_0 J_1$, and therefore $J_0 \cap J_1 \subseteq J_0 J_1 + J_1 J_0$.
     - $m \implies m + 1$: 
     \\[
-    \bigcap_{i \in \set{0, \dots, m}} I_i \subseteq \left( \sum_{\pi \in S_m} \prod_{i \in \set{0, \dots, m - 1}} I_{\pi(i)} \right) I_m + I_m \left( \sum_{\pi \in S_m} \prod_{i \in \set{0, \dots, m - 1}} I_{\pi(i)} \right) \subseteq \sum_{\pi \in S_{m + 1}} \prod_{i \in \set{0, \dots, m}} I_{\pi(i)}.
+    \bigcap_{i \in \set{0, \dots, m}} J_i \subseteq \left( \sum_{\pi \in S_m} \prod_{i \in \set{0, \dots, m - 1}} J_{\pi(i)} \right) J_m + J_m \left( \sum_{\pi \in S_m} \prod_{i \in \set{0, \dots, m - 1}} J_{\pi(i)} \right) \subseteq \sum_{\pi \in S_{m + 1}} \prod_{i \in \set{0, \dots, m}} J_{\pi(i)}.
     \\]
 
 # References
