@@ -77,30 +77,30 @@ We claim the following.
 - $I_0$ and $I_1$ are coprime.
 - $I_0 \cap I_1 = \set{0}$.
 
-For showing $(1 - e_1) R \cap (1 - e_2) R = \set{0}$, we will prove the following observations.
-- $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) =  (1 - e_1) R \cap (1 - e_2) R$.
-- $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \set{0}$.
+For showing $I_0 \cap I_1 = \set{0}$, we will prove the following observations.
+- $I_0 I_1 =  I_0 \cap I_1$.
+- $\left( I_0 \right) \left( I_1 \right) = \set{0}$.
 
-Clearly, if the observations hold, we have $(1 - e_1) R \cap (1 - e_2) R = \set{0}$.
+Clearly, if the observations hold, we have $I_0 \cap I_1 = \set{0}$.
 
 #### Proofs
 
-- Prove that $(1 - e_1) R$ and $(1 - e_2) R$ are coprime.
-    - Since $e_2 \in e_2 R = (1 - e_1) R$, $e_1 \in e_1 R = (1 - e_2) R$, and $e_2 + e_1 = 1$,
-    $(1 - e_1) R$ and $(1 - e_2) R$ are coprime as desired.
+- Prove that $I_0$ and $I_1$ are coprime.
+    - Since $e_2 \in e_2 R = I_0$, $e_1 \in e_1 R = I_1$, and $e_2 + e_1 = 1$,
+    $I_0$ and $I_1$ are coprime as desired.
 
-- Proof for $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) =  (1 - e_1) R \cap (1 - e_2) R$.
+- Proof for $\left( I_0 \right) \left( I_1 \right) =  I_0 \cap I_1$.
     - We first recall that for two coprime ideals $I_0$ and $I_1$, $I_0 \cap I_1 = I_0 I_1 + I_1 I_0$. 
     For the proof, please refer to the supplementary material.
-    Once we show that $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$,
+    Once we show that $\left( I_0 \right) \left( I_1 \right) = \left( I_1 \right) \left( I_0 \right)$,
     we prove the observation.
     Let $r_{1, 1}$, $\dots$, $r_{1, m}$, $r_{2, 1}$, $\dots$, $r_{2, m}$ be arbitrary elements in $R$,
-    since $\sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} = \sum_{i = 1}^m (1 - e_2) r_{1, i} (1 - e_1) r_{2, i}$, 
-    we have $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \left( (1 - e_2) R \right) \left( (1 - e_1) R \right)$ as desired. 
+    since $\sum_{i = 1}^m I_0_{1, i} I_1_{2, i} = \sum_{i = 1}^m I_1_{1, i} I_0_{2, i}$,
+    we have $\left( I_0 \right) \left( I_1 \right) = \left( I_1 \right) \left( I_0 \right)$ as desired.
 
-- Proof for $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \set{0}$.
-    - Since for arbitrary $r_0, r_1 \in R$, $(1 - e_1) r_0 (1 - e_2) r_1 = (1 - (e_1 + e_2)) r_0 r_1 = 0$, we have for arbitrary $r_{1, 1}, \dots, r_{1, m}, r_{2, 1}, \dots, r_{2, m} \in R$, $\sum_{i = 1}^m (1 - e_1) r_{1, i} (1 - e_2) r_{2, i} = 0$.
-    Therefore, $\left( (1 - e_1) R \right) \left( (1 - e_2) R \right) = \set{(1 - e_1) r_0 + (1 - e_2) r_1 | r_0, r_1 \in R} = \set{0}$ as desired.
+- Proof for $\left( I_0 \right) \left( I_1 \right) = \set{0}$.
+    - Since for arbitrary $r_0, r_1 \in R$, $I_0_0 I_1_1 = (1 - (e_1 + e_2)) r_0 r_1 = 0$, we have for arbitrary $r_{1, 1}, \dots, r_{1, m}, r_{2, 1}, \dots, r_{2, m} \in R$, $\sum_{i = 1}^m I_0_{1, i} I_1_{2, i} = 0$.
+    Therefore, $\left( I_0 \right) \left( I_1 \right) = \set{I_0_0 + I_1_1 | r_0, r_1 \in R} = \set{0}$ as desired.
 
 ### Case of finitely many orthogonal central idempotent elements
 
