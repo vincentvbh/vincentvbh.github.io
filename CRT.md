@@ -93,7 +93,7 @@ Clearly, if the observations hold, we have $I_0 \cap I_1 = \set{0}$.
     - We first recall that for two coprime ideals $J$ and $K$, $J \cap K = J K + K J$.
     For the proof, please refer to the supplementary material.
     Once we show that $I_0 I_1 = I_1 I_0$, we prove the observation.
-    Let $r_{0, 0}$, $\dots$, $r_{0, c - 1}$, $r_{1, 0}$, $\dots$, $r_{1, c - 1}$ be arbitrary elements in $R$,
+    For arbitrary $r_{0, 0}$, $\dots$, $r_{0, c - 1}$, $r_{1, 0}$, $\dots$, $r_{1, c - 1} \in R$,
     since $\sum_{i = 0}^{c - 1} (1 - e_0) r_{0, i} (1 - e_1) r_{1, i} = \sum_{i = 0}^{c - 1} (1 - e_1) r_{0, i} (1 - e_0) r_{1, i}$,
     we have $I_0 I_1 = I_1 I_0$ as desired.
 
@@ -103,23 +103,23 @@ Clearly, if the observations hold, we have $I_0 \cap I_1 = \set{0}$.
 
 ### Case of finitely many orthogonal central idempotent elements
 
-We generalize to $e_\calI$ as follows.
-- For $i \neq j$, the ideals $(1 - e_i) R$ and $(1 - e_j) R$ are coprime.
-- $\bigcap_{i \in \calI} (1 - e_i) R = \set{0}$.
+We generalize to $e_\calI$ as follows. Let's write $I_i$ for $(1 - e_i) R$.
+- For $i \neq j$, the ideals $I_i$ and $I_j$ are coprime.
+- $\bigcap_{i \in \calI} I_i = \set{0}$.
 
-Similarly, for showing $\bigcap_{i \in \calI} (1 - e_i) R = \set{0}$, we will prove the following.
-- $\prod_{i \in \calI} (1 - e_i) R = \bigcap_{i \in \calI} (1 - e_i) R$.
-- $\prod_{i \in \calI} (1 - e_i) R = \set{0}$.
+Similarly, for showing $\bigcap_{i \in \calI} I_i = \set{0}$, we will prove the following.
+- $\prod_{i \in \calI} I_i = \bigcap_{i \in \calI} I_i$.
+- $\prod_{i \in \calI} I_i = \set{0}$.
 
 
 
 #### Proofs
 
-- Prove that for $i \neq j$, the ideals $(1 - e_i) R$ and $(1 - e_j) R$ are coprime.
-    - We first observe that $e_i = (1 - e_j) e_i \in (1 - e_j) R $.
+- Prove that for $i \neq j$, the ideals $I_i$ and $I_j$ are coprime.
+    - We first observe that $e_i = (1 - e_j) e_i \in I_j $.
         Now, we choose $1 - e_i \in (1 - e_i) R$ and $e_i \in (1 - e_j) R$ which sums to $1$ as desired.
 - Proof for $\prod_{i \in \calI} (1 - e_i) R = \bigcap_{i \in \calI} (1 - e_i) R$.
-    - We proceed similarly by first recalling $\bigcap_{i \in \calI} I_i = \sum_{\pi \in S_m} \prod_{i \in \calI} I_{\pi(i)}$.
+    - We proceed similarly by first recalling $\bigcap_{i \in \calI} J_i = \sum_{\pi \in S_m} \prod_{i \in \calI} J_{\pi(i)}$ for mutually coprime ideals $J_\calI$.
         The proof is given as a supplementary material.
         We now claim that for arbitrary $\pi_1, \pi_2 \in S_m$, $\prod_{i \in \calI} (1 - e_{\pi_1(i)}) R = \prod_{i \in \calI} (1 - e_{\pi_1(i)}) R$.
         This is immediate since we know that for $i \neq j$, $\left( (1 - e_i) R \right) \left( (1 - e_j) R \right) = \left( (1 - e_j) R \right) \left( (1 - e_i) R \right)$.
