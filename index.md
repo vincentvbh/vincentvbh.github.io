@@ -29,13 +29,17 @@ which are vast generalizations of sorting problems.
 - Algorithmic partial order problems.
 - Graph algorithms.
 
+# Commitee member
+- Artifact Evaluation of TCHES 2023
+
 # Publications
+- [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU.
     - With Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
-    - To appear at TCHES 2022.
+    - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9838) [code](https://github.com/fmlab-iis/cryptoline)
 - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4.
     - With Erdem Alkim, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
-    - To appear at TCHES 2022.
+    - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9823) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [eprint](https://eprint.iacr.org/2022/930)
 - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms.
     - With Hanno Becker, [Matthias J. Kannwischer](https://kannwischer.eu), Lorenz Panny, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - IWSEC 2022 [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [eprint](https://eprint.iacr.org/2022/439).
