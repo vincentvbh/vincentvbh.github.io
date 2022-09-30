@@ -19,7 +19,7 @@ My master thesis focuses on the following platforms:
 You can find the details [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
 Previously, I was working on graph-theoretic interpretations of algorithmic partial order problems,
-which are vast generalizations of sorting problems.
+which are generalizations of sorting problems.
 
 # Contact
 - Email: vincentvbh7@gmail.com.
