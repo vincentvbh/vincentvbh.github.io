@@ -39,7 +39,7 @@ which are vast generalizations of sorting problems.
     - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9838) [code](https://github.com/fmlab-iis/cryptoline)
 - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4.
     - With Erdem Alkim, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
-    - TCHES 2022 [paper](https://tches.iacr.org/index.php/TCHES/article/view/9823) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [eprint](https://eprint.iacr.org/2022/930)
+    - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_4_13.pdf) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [ePrint](https://vincentvbh.github.io/papers/2022-930.pdf)
 - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award).
     - With Hanno Becker, [Matthias J. Kannwischer](https://kannwischer.eu), Lorenz Panny, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - IWSEC 2022 [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [eprint](https://eprint.iacr.org/2022/439).
