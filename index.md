@@ -2,7 +2,7 @@
 
 Hi, there. I'm Vincent Hwang.
 Recently, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰).
-I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因).
 In particular, I was (and am) focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
 My master thesis focuses on the following platforms:
 - Cortex-M3:
@@ -24,7 +24,7 @@ which are generalizations of sorting problems.
 # Contact
 - Email: vincentvbh7@gmail.com.
 
-# Research Interest
+# Research Interests
 - Implementing number-theoretic transforms with Armv7-M, Armv7E-M, and Armv8-A.
 - Algorithmic partial order problems.
 - Graph algorithms.
