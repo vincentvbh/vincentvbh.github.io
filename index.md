@@ -35,28 +35,28 @@ which are generalizations of sorting problems.
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU.
-    - <em>Vincent Hwang</em>, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+    - **Vincent Hwang**, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_26_slide.pdf) [code](https://github.com/fmlab-iis/cryptoline)
 - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4.
     - Erdem Alkim, **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_4_13.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=2825) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_13_slide.pdf) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [ePrint](https://vincentvbh.github.io/papers/2022-930.pdf)
 - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award).
-    - With Hanno Becker, [Matthias J. Kannwischer](https://kannwischer.eu), Lorenz Panny, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+    - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Lorenz Panny, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - IWSEC 2022 [paper](https://vincentvbh.github.io/papers/978-3-031-15255-9_1.pdf) [slide](https://vincentvbh.github.io/slides/20220831_ntt-int-mul.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf).
 - Faster Kyber and Dilithium on the Cortex-M4.
-    - With Amin Abdulrahman, [Matthias J. Kannwischer](https://kannwischer.eu), and Daan Sprenkels.
+    - Amin Abdulrahman, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and Daan Sprenkels.
     - ACNS 2022 [paper](https://vincentvbh.github.io/papers/978-3-031-15255-9_1.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf).
 - Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4.
-    - With Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+    - Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=179) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf).
 - Neon NTT: Faster Dilithium, Kyber, and Saber on Cortex-A72 and Apple M1.
-    - With Hanno Becker, [Matthias J. Kannwischer](https://kannwischer.eu), [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html), and Shang-Yi Yang.
+    - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html), and Shang-Yi Yang.
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_1_08.pdf) [talk by Hanno Becker](https://youtu.be/TSUtA5hmrtk?t=1491) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_08_slide.pptx) [code](https://github.com/neon-ntt/neon-ntt) [ePrint](https://vincentvbh.github.io/papers/2021-986.pdf).
 - NTT Multiplication for NTT-unfriendly Rings.
-    - With Chi-Ming Marvin Chung, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, Cheng-Jhih Shih, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+    - Chi-Ming Marvin Chung, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, Cheng-Jhih Shih, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2021 [paper](https://vincentvbh.github.io/papers/TCHES2021_2_06.pdf) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slide](https://vincentvbh.github.io/slides/TCHES2021_2_06.slide.pdf) [code](https://github.com/ntt-polymul/ntt-polymul) [ePrint](https://vincentvbh.github.io/papers/2020-1397.pdf).
 - Polynomial Multiplication in NTRU Prime.
-    - With Erdem Alkim, Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
+    - Erdem Alkim, Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2021 [paper](https://vincentvbh.github.io/papers/TCHES2021_1_09.pdf) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slide](https://vincentvbh.github.io/slides/TCHES2021_1_09_slide.pdf) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [ePrint](https://vincentvbh.github.io/papers/2020-1216.pdf).
 
 
