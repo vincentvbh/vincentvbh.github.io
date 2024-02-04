@@ -38,10 +38,10 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
     - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-    - ACNS 2024 [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://eprint.iacr.org/2023/1580.pdf)
+    - ACNS 2024 [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
     - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-    - IndoCrypt 2023 [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://eprint.iacr.org/2023/1637.pdf)
+    - IndoCrypt 2023 [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://vincentvbh.github.io/papers/2023-1637.pdf)
 - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU.
     - **Vincent Hwang**, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_26_slide.pdf) [code](https://github.com/fmlab-iis/cryptoline)
