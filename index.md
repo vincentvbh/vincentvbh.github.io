@@ -36,9 +36,12 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
+- Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
+    - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+    - ACNS 2024 [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://eprint.iacr.org/2023/1580.pdf)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
     - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-    - IndoCrypt 2023 [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://eprint.iacr.org/2023/1637)
+    - IndoCrypt 2023 [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://eprint.iacr.org/2023/1637.pdf)
 - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU.
     - **Vincent Hwang**, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_26_slide.pdf) [code](https://github.com/fmlab-iis/cryptoline)
@@ -50,7 +53,7 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
     - IWSEC 2022 [paper](https://vincentvbh.github.io/papers/978-3-031-15255-9_1.pdf) [slide](https://vincentvbh.github.io/slides/20220831_ntt-int-mul.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf).
 - Faster Kyber and Dilithium on the Cortex-M4.
     - Amin Abdulrahman, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and Daan Sprenkels.
-    - ACNS 2022 [paper](https://vincentvbh.github.io/papers/978-3-031-15255-9_1.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf).
+    - ACNS 2022 [paper](https://vincentvbh.github.io/papers/978-3-031-09234-3_42.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf).
 - Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4.
     - Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html).
     - TCHES 2022 [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=179) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf).
