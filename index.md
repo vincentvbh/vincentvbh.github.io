@@ -20,7 +20,7 @@ My master thesis focuses on the following platforms:
 
 You can find the details [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
-I started studying assembly implementations of lattice-based cryptosystems when [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) taught the course Post-Quantum Cryptography at National Taiwan University during the last two years of my undergraduate study.
+I started studying assembly implementations of lattice-based cryptosystems when [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) taught the course Post-Quantum Cryptography at National Taiwan University during the last two years of my undergraduate studies.
 While I was an undergraduate, I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Contact
@@ -36,6 +36,7 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
+- [DBLP](https://dblp.org/pid/277/3814.html)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
     - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
     - ACNS 2024 [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
