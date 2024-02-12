@@ -2,7 +2,6 @@
 
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy.
-Currently, I'm learning how to verify assembly-optimized implementations of post-quantum cryptosystems.
 Before joining the PhD program, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰).
 I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因).
 In particular, I was (and am) focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
@@ -18,16 +17,16 @@ My master thesis focuses on the following platforms:
     - Kyber
     - Saber
 
-You can find the details [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
+You can find the details of the master thesis [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
-I started studying assembly implementations of lattice-based cryptosystems when [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) taught the course Post-Quantum Cryptography at National Taiwan University during the last two years of my undergraduate studies.
 While I was an undergraduate, I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Contact
 - Email: vincentvbh7@gmail.com.
 
 # Research Interests
-- Implementing number-theoretic transforms with Armv7-M, Armv7E-M, and Armv8-A.
+- Assembly programming with Armv7-M, Armv7E-M, Armv8-A, AVX2.
+- Integer and polynomial multiplications.
 - Algorithmic partial order problems.
 - Graph algorithms.
 
