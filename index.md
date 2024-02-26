@@ -38,7 +38,7 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
     - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-    - ACNS 2024 [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
+    - ACNS 2024 [slide](https://vincentvbh.github.io/slides/ACNS2024_1_21_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
 - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
     - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
     - IndoCrypt 2023 [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://vincentvbh.github.io/papers/2023-1637.pdf)
