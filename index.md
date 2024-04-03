@@ -30,8 +30,11 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 - Algorithmic partial order problems.
 - Graph algorithms.
 
-# Committee Member
-- Artifact Review Committee of [CHES 2023](https://ches.iacr.org/2023/)
+# Service
+- 2024:
+    - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/)
+- 2023:
+    - Artifact Review Committee Member of [CHES 2023](https://ches.iacr.org/2023/)
 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
