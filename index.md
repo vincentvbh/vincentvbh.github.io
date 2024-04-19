@@ -40,6 +40,10 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2024:
+    - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
+        - **Vincent Hwang**
+        - To Appear at Australasian Conference for Security and Privacy (ACISP 2024)
+        - [ePrint](https://eprint.iacr.org/2023/604) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - ACNS 2024
@@ -100,10 +104,6 @@ While I was an undergraduate, I spent most of the time on Theoretical Computer S
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
         - IACR ePrint
         - [paper](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
-    - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
-        - **Vincent Hwang**
-        - IACR ePrint
-        - [paper](https://eprint.iacr.org/2023/604) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
     - Algorithmic Views of Vectorized Polynomial Multipliers for NTRU and NTRU Prime (Long Paper)
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - IACR ePrint
