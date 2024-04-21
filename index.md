@@ -2,7 +2,7 @@
 
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy.
-Before joining the PhD program, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰).
+Before joining the PhD program in January 2023, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰) in June 2022.
 I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因).
 In particular, I was (and am) focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
 My master thesis focuses on the following platforms:
@@ -19,19 +19,19 @@ My master thesis focuses on the following platforms:
 
 You can find the details of the master thesis [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
-While I was an undergraduate, I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
+While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
 - [CV](https://vincentvbh.github.io/CV.pdf) (version 2024-04-08)
 
 # Contact
-- Email: vincentvbh7 at gmail dot com.
+- Email: vincentvbh7 at gmail dot com
 
 # Research Interests
-- Assembly programming with Armv7-M, Armv7E-M, Armv8-A, AVX2.
-- Integer and polynomial multiplications.
-- Algorithmic partial order problems.
-- Graph algorithms.
+- Assembly programming with Armv7-M, Armv7E-M, Armv8-A, AVX2
+- Integer and polynomial multiplications
+- Algorithmic partial order problems
+- Graph algorithms
 
 # Programming Skills
 - Assembly (Armv7-M, Armv7E-M, Armv8-A, AVX2, very familiar), C (very familiar), C++ (somewhat familiar), Haskell (some experience)
