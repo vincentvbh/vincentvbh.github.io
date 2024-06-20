@@ -46,10 +46,14 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2024:
+    - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
+        - **Vincent Hwang**
+        - To Appear at International Workshop on Security (IWSEC 2024)
+        - [ePrint](https://eprint.iacr.org/2024/321) [code](https://github.com/vincentvbh/Float_formal)
     - A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems
         - **Vincent Hwang**
         - To Appear at Communications in Cryptology (CiC 2024)
-        - [ePrint](https://eprint.iacr.org/2023/1962) [code](https://github.com/vincentvbh/polymul_lattices)
+        - [ePrint](https://eprint.iacr.org/2023/1962) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
         - To Appear at Australasian Conference for Security and Privacy (ACISP 2024)
@@ -101,10 +105,6 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Technical Reports
 - [IACR ePrint](https://eprint.iacr.org/search?q=%22Vincent+Hwang%22)
 - 2024:
-    - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
-        - **Vincent Hwang**
-        - IACR ePrint
-        - [paper](https://eprint.iacr.org/2024/321)
 - 2023:
     - Barrett Multiplication for Dilithium on Embedded Devices
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
