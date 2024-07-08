@@ -40,7 +40,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
 - 2023:
-    - Artifact Review Committee Member of [CHES 2023](https://ches.iacr.org/2023/)
+    - Artifact Review Committee Member of [TCHES 2023](https://ches.iacr.org/2023/)
 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
@@ -49,15 +49,15 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
         - **Vincent Hwang**
         - To Appear at International Workshop on Security (IWSEC 2024)
-        - [ePrint](https://eprint.iacr.org/2024/321) [code](https://github.com/vincentvbh/Float_formal)
+        - [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf) [code](https://github.com/vincentvbh/Float_formal)
     - A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems
         - **Vincent Hwang**
-        - To Appear at Communications in Cryptology (CiC 2024)
-        - [ePrint](https://eprint.iacr.org/2023/1962) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
+        - Communications in Cryptology (CiC 2024)
+        - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
         - To Appear at Australasian Conference for Security and Privacy (ACISP 2024)
-        - [ePrint](https://eprint.iacr.org/2023/604) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
+        - [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - Applied Cryptography and Network Security (ACNS 2024)
@@ -109,11 +109,11 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Barrett Multiplication for Dilithium on Embedded Devices
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
         - IACR ePrint
-        - [paper](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
+        - [ePrint](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
     - Algorithmic Views of Vectorized Polynomial Multipliers for NTRU and NTRU Prime (Long Paper)
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - IACR ePrint
-        - [paper](https://eprint.iacr.org/2023/541)
+        - [ePrint](https://eprint.iacr.org/2023/541)
         - This paper was split into the following papers:
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
