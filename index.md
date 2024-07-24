@@ -56,7 +56,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
-        - To Appear at Australasian Conference for Security and Privacy (ACISP 2024)
+        - Australasian Conference for Security and Privacy (ACISP 2024)
         - [paper](https://vincentvbh.github.io/papers/ACISP2024_2_97.pdf) [slide](https://vincentvbh.github.io/slides/ACISP2024_2_97_slide.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
