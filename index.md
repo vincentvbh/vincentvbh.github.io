@@ -37,6 +37,8 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - Assembly (Armv7-M, Armv7E-M, Armv8-A, AVX2, very familiar), C (very familiar), C++ (somewhat familiar), Haskell (some experience)
 
 # Service
+- 2025:
+    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/)
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
 - 2023:
@@ -45,61 +47,66 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
+- 2025:
+    - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
+        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
+        - To Appear at [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
+        - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_21.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul)
 - 2024:
     - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
         - **Vincent Hwang**
-        - To Appear at International Workshop on Security (IWSEC 2024)
-        - [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf) [code](https://github.com/vincentvbh/Float_formal)
+        - [International Workshop on Security (IWSEC 2024)](https://www.iwsec.org/2024/)
+        - [paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_7) [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf) [code](https://github.com/vincentvbh/Float_formal)
     - A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems
         - **Vincent Hwang**
-        - Communications in Cryptology (CiC 2024)
+        - [Communications in Cryptology (CiC 2024), Issue 2](https://cic.iacr.org/)
         - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
-        - Australasian Conference for Security and Privacy (ACISP 2024)
+        - [Australasian Conference for Security and Privacy (ACISP 2024)](https://www.acisp24.com/)
         - [paper](https://vincentvbh.github.io/papers/ACISP2024_2_97.pdf) [slide](https://vincentvbh.github.io/slides/ACISP2024_2_97_slide.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - Applied Cryptography and Network Security (ACNS 2024)
+        - [Applied Cryptography and Network Security (ACNS 2024)](https://wp.nyu.edu/acns2024/)
         - [paper](https://vincentvbh.github.io/papers/ACNS2024_1_21.pdf) [slide](https://vincentvbh.github.io/slides/ACNS2024_1_21_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
 - 2023:
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - International Conference on Cryptology in India (INDOCRYPT 2023)
+        - [International Conference on Cryptology in India (INDOCRYPT 2023)](https://crsind.in/indocrypt2023/)
         - [paper](https://vincentvbh.github.io/papers/INDOCRYPT2023_28.pdf) [slide](https://vincentvbh.github.io/slides/IndoCrypt2023_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://vincentvbh.github.io/papers/2023-1637.pdf)
 - 2022:
     - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU
         - **Vincent Hwang**, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, Bow-Yaw Wang, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_26_slide.pdf) [code](https://github.com/fmlab-iis/cryptoline)
     - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4
         - Erdem Alkim, **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_13.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=2825) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_13_slide.pdf) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [ePrint](https://vincentvbh.github.io/papers/2022-930.pdf)
     - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award)
         - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Lorenz Panny, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - International Workshop on Security (IWSEC 2022)
+        - [International Workshop on Security (IWSEC 2022)](https://www.iwsec.org/2022/index.html)
         - [paper](https://vincentvbh.github.io/papers/IWSEC2022_31.pdf) [slide](https://vincentvbh.github.io/slides/20220831_ntt-int-mul_slide.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf)
     - Faster Kyber and Dilithium on the Cortex-M4
         - Amin Abdulrahman, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and Daan Sprenkels
-        - Applied Cryptography and Network Security (ACNS 2022)
+        - [Applied Cryptography and Network Security (ACNS 2022)](https://acns22.di.uniroma1.it/)
         - [paper](https://vincentvbh.github.io/papers/ACNS2022_202.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf)
     - Neon NTT: Faster Dilithium, Kyber, and Saber on Cortex-A72 and Apple M1
         - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html), and Shang-Yi Yang
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_08.pdf) [talk by Hanno Becker](https://youtu.be/TSUtA5hmrtk?t=1491) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_08_slide.pptx) [code](https://github.com/neon-ntt/neon-ntt) [ePrint](https://vincentvbh.github.io/papers/2021-986.pdf)
     - Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4
         - Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=179) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf)
 - 2021:
     - NTT Multiplication for NTT-unfriendly Rings
         - Chi-Ming Marvin Chung, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, Cheng-Jhih Shih, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 2](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_2_06.pdf) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slide](https://vincentvbh.github.io/slides/TCHES2021_2_06.slide.pdf) [code](https://github.com/ntt-polymul/ntt-polymul) [ePrint](https://vincentvbh.github.io/papers/2020-1397.pdf)
     - Polynomial Multiplication in NTRU Prime
         - Erdem Alkim, Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
-        - IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021)
+        - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 1](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_1_09.pdf) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slide](https://vincentvbh.github.io/slides/TCHES2021_1_09_slide.pdf) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [ePrint](https://vincentvbh.github.io/papers/2020-1216.pdf)
 
 # Technical Reports
