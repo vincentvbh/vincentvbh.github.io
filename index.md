@@ -38,7 +38,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Service
 - 2025:
-    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/)
+    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
 - 2023:
@@ -117,6 +117,8 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
         - IACR ePrint
         - [ePrint](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
+        - This paper was extened to the follow paper:
+            - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
     - Algorithmic Views of Vectorized Polynomial Multipliers for NTRU and NTRU Prime (Long Paper)
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - IACR ePrint
