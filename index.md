@@ -39,6 +39,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Service
 - 2025:
     - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)
+    - Artifact Review Committee Member of [TCHES 2025](https://ches.iacr.org/2025/)
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
 - 2023:
@@ -51,20 +52,20 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
         - To Appear at [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
-        - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_21.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul)
+        - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_21.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
 - 2024:
     - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
         - **Vincent Hwang**
         - [International Workshop on Security (IWSEC 2024)](https://www.iwsec.org/2024/)
-        - [paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_7) [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf) [code](https://github.com/vincentvbh/Float_formal)
+        - [paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_7) [slide](https://vincentvbh.github.io/slides/IWSEC2024_1_slide.pdf) [code](https://github.com/vincentvbh/Float_formal) [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf)
     - A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems
         - **Vincent Hwang**
         - [Communications in Cryptology (CiC 2024), Issue 2](https://cic.iacr.org/)
-        - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices)
+        - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
         - [Australasian Conference for Security and Privacy (ACISP 2024)](https://www.acisp24.com/)
-        - [paper](https://vincentvbh.github.io/papers/ACISP2024_2_97.pdf) [slide](https://vincentvbh.github.io/slides/ACISP2024_2_97_slide.pdf) [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation)
+        - [paper](https://vincentvbh.github.io/papers/ACISP2024_2_97.pdf) [slide](https://vincentvbh.github.io/slides/ACISP2024_2_97_slide.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation) [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [Applied Cryptography and Network Security (ACNS 2024)](https://wp.nyu.edu/acns2024/)
