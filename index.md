@@ -81,7 +81,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_26_slide.pdf) [code](https://github.com/fmlab-iis/cryptoline)
     - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4
-        - Erdem Alkim, **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+        - [Erdem Alkim](https://erdemalkim.github.io/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_13.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=2825) [slide](https://vincentvbh.github.io/slides/TCHES2022_4_13_slide.pdf) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [ePrint](https://vincentvbh.github.io/papers/2022-930.pdf)
     - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award)
@@ -89,7 +89,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [International Workshop on Security (IWSEC 2022)](https://www.iwsec.org/2022/index.html)
         - [paper](https://vincentvbh.github.io/papers/IWSEC2022_31.pdf) [slide](https://vincentvbh.github.io/slides/20220831_ntt-int-mul_slide.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf)
     - Faster Kyber and Dilithium on the Cortex-M4
-        - Amin Abdulrahman, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and Daan Sprenkels
+        - [Amin Abdulrahman](https://abdulrahman.de/), **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Amber Sprenkels](https://electricdusk.com/)
         - [Applied Cryptography and Network Security (ACNS 2022)](https://acns22.di.uniroma1.it/)
         - [paper](https://vincentvbh.github.io/papers/ACNS2022_202.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf)
     - Neon NTT: Faster Dilithium, Kyber, and Saber on Cortex-A72 and Apple M1
@@ -97,7 +97,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_08.pdf) [talk by Hanno Becker](https://youtu.be/TSUtA5hmrtk?t=1491) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_08_slide.pptx) [code](https://github.com/neon-ntt/neon-ntt) [ePrint](https://vincentvbh.github.io/papers/2021-986.pdf)
     - Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4
-        - Amin Abdulrahman, Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+        - [Amin Abdulrahman](https://abdulrahman.de/), Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=179) [slide](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slide_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf)
 - 2021:
@@ -106,7 +106,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 2](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_2_06.pdf) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slide](https://vincentvbh.github.io/slides/TCHES2021_2_06.slide.pdf) [code](https://github.com/ntt-polymul/ntt-polymul) [ePrint](https://vincentvbh.github.io/papers/2020-1397.pdf)
     - Polynomial Multiplication in NTRU Prime
-        - Erdem Alkim, Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+        - [Erdem Alkim](https://erdemalkim.github.io/), Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, Ruben Niederhagen, Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 1](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_1_09.pdf) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slide](https://vincentvbh.github.io/slides/TCHES2021_1_09_slide.pdf) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [ePrint](https://vincentvbh.github.io/papers/2020-1216.pdf)
 
