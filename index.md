@@ -50,7 +50,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2025:
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
-        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
+        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - To Appear at [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_21.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
 - 2024:
@@ -115,7 +115,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - 2024:
 - 2023:
     - Barrett Multiplication for Dilithium on Embedded Devices
-        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/professor)
+        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - IACR ePrint
         - [ePrint](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
         - This paper was exteneded into the follow paper:
