@@ -22,7 +22,7 @@ You can find the details of the master thesis [here](https://github.com/vincentv
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [CV](https://vincentvbh.github.io/CV.pdf) (version 2024-07-08)
+- [CV](https://vincentvbh.github.io/CV.pdf) (version 2024-12-14)
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
@@ -30,16 +30,17 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Research Interests
 - Assembly programming with Armv7-M, Armv7E-M, Armv8-A, AVX2
 - Integer and polynomial multiplications
+- Post-quantum cryptography (mainly lattice-based)
 - Algorithmic partial order problems
 - Graph algorithms
 
 # Programming Skills
 - Assembly (Armv7-M, Armv7E-M, Armv8-A, AVX2, very familiar), C (very familiar), C++ (somewhat familiar), Haskell (some experience)
 
-# Service
+# Services
 - 2025:
     - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)
-    - Artifact Review Committee Member of [TCHES 2025](https://ches.iacr.org/2025/)
+    - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/)
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
 - 2023:
