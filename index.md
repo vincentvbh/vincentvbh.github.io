@@ -22,7 +22,7 @@ You can find the details of the master thesis [here](https://github.com/vincentv
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [CV](https://vincentvbh.github.io/CV.pdf) (version 2024-12-14)
+- [CV](https://vincentvbh.github.io/CV.pdf) (version 2025-01-08)
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
@@ -31,11 +31,16 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - Assembly programming with Armv7-M, Armv7E-M, Armv8-A, AVX2
 - Integer and polynomial multiplications
 - Post-quantum cryptography (mainly lattice-based)
+- Formal verification (still exploring)
+- GPU programming (still exploring)
 - Algorithmic partial order problems
 - Graph algorithms
 
 # Programming Skills
-- Assembly (Armv7-M, Armv7E-M, Armv8-A, AVX2, very familiar), C (very familiar), C++ (somewhat familiar), Haskell (some experience)
+- Assembly (Armv7-M, Armv7E-M, Armv8-A, AVX2, very familiar)
+- C (very familiar)
+- C++ (somewhat familiar), CUDA (somewhat familiar)
+- Haskell (some experience)
 
 # Services
 - 2025:
