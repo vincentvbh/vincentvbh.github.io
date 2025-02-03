@@ -118,13 +118,18 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Technical Reports
 - [IACR ePrint](https://eprint.iacr.org/search?q=%22Vincent+Hwang%22)
+- 2025:
+    - Shadowfax: Combiners for Deniability
+        - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
+        - IACR ePrint
+        - [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
 - 2024:
 - 2023:
     - Barrett Multiplication for Dilithium on Embedded Devices
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - IACR ePrint
         - [ePrint](https://eprint.iacr.org/2023/1955) [code](https://github.com/vincentvbh/Barrett_Dilithium_Embedded)
-        - This paper was exteneded into the follow paper:
+        - This paper was extended into the follow paper:
             - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
     - Algorithmic Views of Vectorized Polynomial Multipliers for NTRU and NTRU Prime (Long Paper)
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
