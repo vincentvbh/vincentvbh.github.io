@@ -55,6 +55,9 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2025:
+    - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
+        - José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Gustavo Xavier Delerue Marinho Alves, Luís Esquível, **Vincent Hwang**, Tiago Oliveira, Hugo Pacheco, Peter Schwabe, Pierre-Yves Strub
+        - To appear at [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
