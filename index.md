@@ -44,10 +44,10 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Services
 - 2025:
-    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)
+    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x5), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2)
     - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/)
 - 2024:
-    - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/), [TCHES 2024](https://ches.iacr.org/2024/)
+    - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/) (x1), [TCHES 2024](https://ches.iacr.org/2024/) (x3)
 - 2023:
     - Artifact Review Committee Member of [TCHES 2023](https://ches.iacr.org/2023/)
 
@@ -57,7 +57,8 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - 2025:
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
         - José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Gustavo Xavier Delerue Marinho Alves, Luís Esquível, **Vincent Hwang**, Tiago Oliveira, Hugo Pacheco, Peter Schwabe, Pierre-Yves Strub
-        - To appear at [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
+        - [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
+        - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
