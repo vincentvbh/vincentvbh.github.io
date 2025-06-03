@@ -44,7 +44,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Services
 - 2025:
-    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x5), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2)
+    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1)
     - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/)
 - 2024:
     - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/) (x1), [TCHES 2024](https://ches.iacr.org/2024/) (x3)
