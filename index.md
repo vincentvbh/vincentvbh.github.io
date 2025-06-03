@@ -22,7 +22,7 @@ You can find the details of the master thesis [here](https://github.com/vincentv
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [CV](https://vincentvbh.github.io/CV.pdf) (version 2025-05-10)
+- [CV](https://vincentvbh.github.io/CV.pdf) (version 2025-06-03)
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
