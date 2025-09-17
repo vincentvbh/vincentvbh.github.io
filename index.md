@@ -58,7 +58,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2025:
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
-        - José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Gustavo Xavier Delerue Marinho Alves, Luís Esquível, **Vincent Hwang**, Tiago Oliveira, Hugo Pacheco, Peter Schwabe, Pierre-Yves Strub
+        - [José Bacelar Almeida](https://www.inesctec.pt/en/people/jose-bacelar-almeida), [Manuel Barbosa](https://www.dcc.fc.up.pt/~mbb/), [Gilles Barthe](https://gbarthe.github.io/), Gustavo Xavier Delerue Marinho Alves, [Luís Esquível](https://www.inesctec.pt/en/people/luis-esquivel-costa), **Vincent Hwang**, Tiago Oliveira, [Hugo Pacheco](https://www.dcc.fc.up.pt/~hpacheco/), [Peter Schwabe](https://cryptojedi.org/peter/index.shtml), [Pierre-Yves Strub](https://www.strub.nu/)
         - [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
         - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8) [ePrint](https://eprint.iacr.org/2025/1607)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
