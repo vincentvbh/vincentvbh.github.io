@@ -60,11 +60,11 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
         - José Bacelar Almeida, Manuel Barbosa, Gilles Barthe, Gustavo Xavier Delerue Marinho Alves, Luís Esquível, **Vincent Hwang**, Tiago Oliveira, Hugo Pacheco, Peter Schwabe, Pierre-Yves Strub
         - [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
-        - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8) [slides](https://vincentvbh.github.io/slides/TCHES2025_1_21_slides.pdf) [ePrint](https://eprint.iacr.org/2025/1607)
+        - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8) [ePrint](https://eprint.iacr.org/2025/1607)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
-        - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_06.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
+        - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_06.pdf) [slides](https://vincentvbh.github.io/slides/TCHES2025_1_21_slides.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
 - 2024:
     - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
         - **Vincent Hwang**
