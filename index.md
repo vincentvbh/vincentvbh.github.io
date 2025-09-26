@@ -99,7 +99,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award)
         - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), [Lorenz Panny](https://yx7.cc/), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [International Workshop on Security (IWSEC 2022)](https://www.iwsec.org/2022/index.html)
-        - [paper](https://vincentvbh.github.io/papers/IWSEC2022_31.pdf) [slides](https://vincentvbh.github.io/slides/20220831_ntt-int-mul_slides.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf)
+        - [paper](https://link.springer.com/chapter/10.1007/978-3-031-15255-9_1) [slides](https://vincentvbh.github.io/slides/20220831_ntt-int-mul_slides.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf)
     - Faster Kyber and Dilithium on the Cortex-M4
         - [Amin Abdulrahman](https://abdulrahman.de/), **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Amber Sprenkels](https://electricdusk.com/)
         - [Applied Cryptography and Network Security (ACNS 2022)](https://acns22.di.uniroma1.it/)
