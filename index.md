@@ -19,6 +19,7 @@ During my PhD, I continue with optimizing the number theoretic transforms used i
 - Haswell:
     - Kyber
     - NTRU Prime
+
 In addition to the optimization works on CPUs,
 I'm also exploring formal verification of the optimized assembly programs for cryptography and
 GPU programming for cryptanalysis.
@@ -36,6 +37,7 @@ I was focusing on implementing number-theoretic transforms used in the lattice-b
     - Dilithium
     - Kyber
     - Saber
+
 You can find the details of the master thesis [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
