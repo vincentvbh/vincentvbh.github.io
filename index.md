@@ -1,7 +1,7 @@
 
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy,
-and we are currently scheduling the defense. See [here](https://vincentvbh.github.io/manuscript.pdf) for the manuscript of my PhD thesis (submitted on 2025-07-06, approved on 2025-10-24).
+and we are currently scheduling the defense. See [here](https://vincentvbh.github.io/manuscript.pdf) for the manuscript of my PhD thesis (submitted on 2025-07-06, approved on 2025-10-24, defense scheduled at 2026-04-28).
 
 During my PhD, I continue with optimizing the number theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber on the following platforms:
 - Cortex-M3:
@@ -43,7 +43,7 @@ You can find the details of the master thesis [here](https://github.com/vincentv
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [CV](https://vincentvbh.github.io/CV.pdf) (version 2025-10-31)
+- [CV](https://vincentvbh.github.io/CV.pdf) (version 2025-12-15)
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
@@ -64,7 +64,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Services
 - 2026:
-    -  Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x1), (Incoming) Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/)
+    -  Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x3), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x2)
 - 2025:
     - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1)
     - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/) (x5)
