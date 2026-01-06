@@ -165,4 +165,23 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
 
+# Talks (Conference talks excluded)
+- 2026:
+    - Implementing Polynomial Multiplications for Lattice-Based Cryptography on Microcontrollers
+        - [1st MMU-UTAR Post-Quantum Cryptography Symposium: Standards, Engineering and Applications](https://ccs.research.utar.edu.my/1st_MMU-UTAR_Post-Quantum_Cryptography_Symposium%3A_Standards%2C_Engineering_and_App.php)
+        - [slides](https://vincentvbh.github.io/slides/UK_MMU-UTAR_PQC_2026_01_06.pdf)
+- 2025:
+    - Cryptographic Engineering in Post-Quantum Cryptography
+        - [Department of Electrical Engineering at National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)
+        - [slides](https://vincent.github.io/slides/NTUEE_2025_11_06.pdf)
+    - Artifact Packaging with the Absence of the Target Hardware in Mind
+        - [OPTIMIST Workshop'25](https://optimist-ose.org/ches25)
+        - [slides](https://vincent.github.io/slides/OPTIMIST_2025_09_14.pdf)
+    - Practical Aspects of Schoenhage and Nussbaumer FFTs
+        - [Institute of Information Science at Academia Sinica](https://www.iis.sinica.edu.tw/zh/page/AboutUs/Introduction.html)
+        - [slides](https://vincent.github.io/slides/IIS_2024_05_03.pdf)
+
+
+
+
 
