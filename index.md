@@ -63,7 +63,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - C++ (somewhat familiar), CUDA (somewhat familiar)
 - Haskell (some experience)
 
-# Services
+# Service
 - 2026:
     -  Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x3), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x2)
 - 2025:
