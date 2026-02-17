@@ -1,24 +1,8 @@
 
 Hi, there. I'm Vincent Hwang (黃柏文).
-I'm currently a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy,
-and we are currently scheduling the defense. See [here](https://vincentvbh.github.io/manuscript.pdf) for the manuscript of my PhD thesis (submitted on 2025-07-06, approved on 2025-10-24, defense scheduled at 2026-04-28).
+I'm currently a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy. See [here](https://vincentvbh.github.io/manuscript.pdf) for the manuscript of my PhD thesis (submitted on 2025-07-06, approved on 2025-10-24, defense scheduled at 2026-04-28).
 
-During my PhD, I continue with optimizing the number theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber on the following platforms:
-- Cortex-M3:
-    - Dilithium
-    - Kyber
-    - Saber
-- Cortex-M4:
-    - Kyber
-- Cortex-A72:
-    - Dilithium
-    - Kyber
-    - NTRU
-    - NTRU Prime
-    - Saber
-- Haswell:
-    - Kyber
-    - NTRU Prime
+During my PhD, I continue with optimizing the number theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber on microcontrollers (Cortex-M3, Cortex-M4), and mid-tier/high-end processors (Cortex-A72, Haswell).
 
 In addition to the optimization works on CPUs,
 I'm also exploring formal verification of the optimized assembly programs for cryptography and
@@ -26,17 +10,7 @@ GPU programming for cryptanalysis.
 
 Before joining the PhD program in January 2023, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰) in June 2022.
 I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因).
-I was focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber on the following platforms:
-- Cortex-M3:
-    - Saber
-- Cortex-M4:
-    - NTRU
-    - NTRU Prime
-    - Saber
-- Cortex-A72:
-    - Dilithium
-    - Kyber
-    - Saber
+I was focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
 
 You can find the details of the master thesis [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
 
