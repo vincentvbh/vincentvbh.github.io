@@ -39,7 +39,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Service
 - 2026:
-    -  Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x6), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x2), (Incoming) Artifact Review Committee of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)
+    -  Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x6), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x6), Artifact Review Committee of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)
 - 2025:
     - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1)
     - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/) (x5)
@@ -51,6 +51,11 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
+- 2026:
+    - Shadowfax: Combiners for Deniability
+        - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
+        - [USENIX Security 2026, Cycle 1](https://www.usenix.org/conference/usenixsecurity26)
+        - [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
 - 2025:
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
         - [José Bacelar Almeida](https://www.inesctec.pt/en/people/jose-bacelar-almeida), [Manuel Barbosa](https://www.dcc.fc.up.pt/~mbb/), [Gilles Barthe](https://gbarthe.github.io/), Gustavo Xavier Delerue Marinho Alves, [Luís Esquível](https://www.inesctec.pt/en/people/luis-esquivel-costa), **Vincent Hwang**, Tiago Oliveira, [Hugo Pacheco](https://www.dcc.fc.up.pt/~hpacheco/), [Peter Schwabe](https://cryptojedi.org/peter/index.shtml), [Pierre-Yves Strub](https://www.strub.nu/)
@@ -120,10 +125,6 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 # Technical Reports
 - [IACR ePrint](https://eprint.iacr.org/search?q=%22Vincent+Hwang%22)
 - 2025:
-    - Shadowfax: Combiners for Deniability
-        - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
-        - IACR ePrint
-        - [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
 - 2024:
 - 2023:
     - Barrett Multiplication for Dilithium on Embedded Devices
