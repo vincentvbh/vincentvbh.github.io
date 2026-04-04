@@ -1,0 +1,12 @@
+
+Vincent Hwang is currently a Senior Software Engineer at Qinvicta, Boston, USA.
+He was a PhD student at Max Planck Institute for Security and Privacy, Bochum, Germany under the supervision of Peter Schwabe. His PhD defense is scheduled on April 28th, 2026.
+He obtained a bachelor's (2021) and a master's (2022) from the Department of Computer Science and Information Engineering at National Taiwan University, Taipei, Taiwan.
+His main research focuses are assembly optimization in cryptographic engineering on various platforms,
+formal verification for assembly-optimized programs,
+and recently elliptic-curve discrete logarithms on data-center-level GPUs.
+He authored/coauthored two publications in his bachelor's studies, six publications in his master's studies,
+and seven publications in his PhD studies.
+He is enthusiastic on turning high-level constructs in cryptography into highly-optimized assembly programs.
+
+
