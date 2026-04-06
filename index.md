@@ -1,6 +1,6 @@
 
 Hi, there. I'm Vincent Hwang (黃柏文).
-I'm currently a Senior Software Engineer at a starup in Boston, USA.
+I'm currently a Senior Software Engineer at a startup in Boston, USA.
 
 Previously, I was a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy. See [here](https://vincentvbh.github.io/manuscript.pdf) for the manuscript of my PhD thesis (submitted on 2025-07-06, approved on 2025-10-24, defense scheduled on 2026-04-28).
 
