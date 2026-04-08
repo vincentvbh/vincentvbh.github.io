@@ -18,7 +18,7 @@ You can find the details of the master thesis [here](https://github.com/vincentv
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [Academic CV](https://vincentvbh.github.io/CV_academic.pdf) (version 2026-04-03).
+- [Academic CV](https://vincentvbh.github.io/CV_academic.pdf) (version 2026-04-08).
 - [Industry CV](https://vincentvbh.github.io/CV_industry.pdf) (version 2026-04-06).
 
 # Contact
@@ -53,7 +53,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2026:
-    - Shadowfax: Combiners for Deniability
+    - Shadowfax: Hybrid Security and Deniability for AKEMs
         - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
         - [USENIX Security 2026, Cycle 1](https://www.usenix.org/conference/usenixsecurity26)
         - [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
