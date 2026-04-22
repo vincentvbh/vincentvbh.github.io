@@ -115,11 +115,11 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk](https://youtu.be/TSUtA5hmrtk?t=179) [slides](https://vincentvbh.github.io/slides/TCHES2022_1_05_slides.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slides_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf)
 - 2021:
     - NTT Multiplication for NTT-unfriendly Rings
-        - Chi-Ming Marvin Chung, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, Cheng-Jhih Shih, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+        - Chi-Ming Marvin Chung, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, [Cheng-Jhih Shih](https://strongshih.github.io/), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 2](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_2_06.pdf) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slides](https://vincentvbh.github.io/slides/TCHES2021_2_06.slides.pdf) [code](https://github.com/ntt-polymul/ntt-polymul) [ePrint](https://vincentvbh.github.io/papers/2020-1397.pdf)
     - Polynomial Multiplication in NTRU Prime
-        - [Erdem Alkim](https://erdemalkim.github.io/), Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, [Ruben Niederhagen](http://polycephaly.org/), Cheng-Jhih Shih, Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
+        - [Erdem Alkim](https://erdemalkim.github.io/), Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, [Ruben Niederhagen](http://polycephaly.org/), [Cheng-Jhih Shih](https://strongshih.github.io/), Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 1](https://ches.iacr.org/2021/)
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_1_09.pdf) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slides](https://vincentvbh.github.io/slides/TCHES2021_1_09_slides.pdf) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [ePrint](https://vincentvbh.github.io/papers/2020-1216.pdf)
 
