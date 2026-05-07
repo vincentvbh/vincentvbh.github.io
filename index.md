@@ -2,7 +2,7 @@
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently a Senior Software Engineer at a startup in Boston, USA.
 
-Previously, I was a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy. See [here](https://vincentvbh.github.io/phd.md) for more information of my PhD thesis and defense (submitted on 2025-07-06, defended on 2026-04-28).
+Previously, I was a PhD student supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at Max Planck Institute for Security and Privacy. See [here](./phd.html) for more information of my PhD thesis and defense (submitted on 2025-07-06, defended on 2026-04-28).
 
 During my PhD, I continued with optimizing the polynomial multiplications in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber on microcontrollers (Cortex-M3, Cortex-M4), and mid-tier/high-end processors (Cortex-A72, Haswell).
 
