@@ -13,13 +13,13 @@ GPU programming for cryptanalysis.
 Before joining the PhD program in January 2023, I obtained my master's degree under the supervision of [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰) in June 2022.
 I mostly worked with [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因).
 I was focusing on implementing number-theoretic transforms used in the lattice-based cryptosystems Dilithium, Kyber, NTRU, NTRU Prime, and Saber.
-You can find the details of the master thesis [here](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A).
+See [here](./master.html) for more information.
 
 While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of the time on Theoretical Computer Science, in particular, graph algorithms and generalizations of sorting problems.
 
 # Curriculum Vitae
-- [Academic CV](https://vincentvbh.github.io/CV_academic.pdf) (version 2026-04-08).
-- [Industry CV](https://vincentvbh.github.io/CV_industry.pdf) (version 2026-04-06).
+- [Academic CV](./CV_academic.pdf) (version 2026-04-08).
+- [Industry CV](./CV_industry.pdf) (version 2026-04-06).
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
@@ -56,7 +56,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
     - Shadowfax: Hybrid Security and Deniability for AKEMs
         - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
         - [USENIX Security 2026, Cycle 1](https://www.usenix.org/conference/usenixsecurity26)
-        - [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
+        - [paper](https://www.usenix.org/conference/usenixsecurity26/presentation/gajland) [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
 - 2025:
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
         - [José Bacelar Almeida](https://www.inesctec.pt/en/people/jose-bacelar-almeida), [Manuel Barbosa](https://www.dcc.fc.up.pt/~mbb/), [Gilles Barthe](https://gbarthe.github.io/), Gustavo Xavier Delerue Marinho Alves, [Luís Esquível](https://www.inesctec.pt/en/people/luis-esquivel-costa), **Vincent Hwang**, Tiago Oliveira, [Hugo Pacheco](https://www.dcc.fc.up.pt/~hpacheco/), [Peter Schwabe](https://cryptojedi.org/peter/index.shtml), [Pierre-Yves Strub](https://www.strub.nu/)
