@@ -11,7 +11,7 @@
     - 2025-07-06 (submission).
 - Supervisors:
     - Supervisor: [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) at MPI-SP.
-    - Co-supervisor: [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因) at [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html).
+    - Co-supervisor: [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html) (楊柏因) at [Institute of Information Science, Academia Sinica, Taipei, Taiwan](https://www.iis.sinica.edu.tw/en/index.html).
 - Assets:
     - [Dissertation](https://vincentvbh.github.io/dissertation_printed.pdf)
 

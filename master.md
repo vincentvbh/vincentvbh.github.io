@@ -5,12 +5,12 @@
 
 - Where:
     - [National Taiwan University, Taipei, Taiwan](https://www.ntu.edu.tw/english/).
-    - [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html).
+    - [Institute of Information Science, Academia Sinica, Taipei, Taiwan](https://www.iis.sinica.edu.tw/en/index.html).
 
 - When:
     - 2022-06-30.
 - Supervisor:
-    - [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰).
+    - [Yen-Huan Li](https://sites.google.com/site/yenhuanli/home) (李彥寰) at [National Taiwan University](https://www.ntu.edu.tw/english/).
 - Assets:
     - [Website](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A)
     - [Thesis](https://github.com/vincentvbh/NTTs_with_Armv7-M_Armv7E-M_Armv8-A/blob/main/thesis_protected.pdf)
