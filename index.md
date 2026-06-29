@@ -42,7 +42,7 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 
 # Service
 - 2027:
-    - Program Committee Member of [TCHES 2027](https://ches.iacr.org/2027).
+    - Program Committee/Editorial Board Member of [TCHES 2027](https://ches.iacr.org/2027).
 
 - 2026:
     - Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x6), Artifact Review Committee of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4)
