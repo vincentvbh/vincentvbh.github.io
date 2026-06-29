@@ -1,4 +1,6 @@
 
+[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for submissions. Deadline July 15, AOE.
+
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startup based in Cambridge, Massachusetts, USA.
 
@@ -39,6 +41,9 @@ While I was an undergraduate student (Sept. 2016 -- Jun. 2021), I spent most of 
 - Haskell (some experience)
 
 # Service
+- 2027:
+    - Program Committee Member of [TCHES 2027](https://ches.iacr.org/2027).
+
 - 2026:
     - Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x6), Artifact Review Committee of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4)
 - 2025:
