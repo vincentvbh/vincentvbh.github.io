@@ -1,5 +1,5 @@
 
-[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for submissions. Deadline July 15, AOE.
+[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for [submissions](https://ches.iacr.org/2027/papersubmission.php). [Deadline](https://ches.iacr.org/2027/callforpapers.php) July 15, AOE.
 
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startup based in Cambridge, Massachusetts, USA.
