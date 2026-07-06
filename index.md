@@ -1,5 +1,5 @@
 
-[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for [submissions](https://ches.iacr.org/2027/papersubmission.php). [Deadline](https://ches.iacr.org/2027/callforpapers.php) July 15, AOE.
+[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for [submissions](https://submit.iacr.org/tches2027_1/). [Deadline](https://ches.iacr.org/2027/callforpapers.php) July 15, AOE.
 
 **Cryptographic engineer specializing in fast cryptographic implementations —
 from Cortex-M microcontrollers to Apple-M1/Armv8-A vector units and H100 GPUs
