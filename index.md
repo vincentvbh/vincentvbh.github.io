@@ -1,7 +1,48 @@
 
 [TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for [submissions](https://ches.iacr.org/2027/papersubmission.php). [Deadline](https://ches.iacr.org/2027/callforpapers.php) July 15, AOE.
 
+**Cryptographic engineer specializing in fast cryptographic implementations —
+from Cortex-M microcontrollers to Apple-M1/Armv8-A vector units and H100 GPUs
+— with formal-verification work alongside.**
 
+Hi, there. I'm Vincent Hwang (黃柏文).
+I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startup based in Cambridge, Massachusetts, USA.
+
+I'm a cryptographic engineer: I take the high-level mathematics of (post-quantum) cryptography and turn it into optimized, real-world code. I position myself as a computer scientist who turns high-level ideas into optimized programs — usually through several iterations of algorithmic
+refinement and hand-written assembly.
+
+# High-performance implementation
+
+My core is the arithmetic of lattice-based schemes -- the polynomial multiplications behind NTRU, NTRU Prime, Saber, and the NIST standards ML-KEM and ML-DSA -- optimized across a wide range of platforms: Cortex-M3/M4 microcontrollers (including targets *without* powerful multiplication instructions), Armv8-A Neon on Cortex-A72 and Apple M1, and AVX2 on x86-64.
+These works draw on a full FFT/NTT toolbox -- Good--Thomas (and its incomplete/truncated variants),
+Rader and truncated Rader, Schönhage, Nussbaumer, Bruun's FFT, Toeplitz matrix-vector products, and the Fermat number transform -- together with the Barrett/Montgomery multiplication.
+I wrote the field's survey of polynomial multiplication for lattice-based cryptography (sole-authored, CiC 2024),
+and I also work at the protocol level (deniable, hybrid post-quantum AKEMs -- *Shadowfax*, USENIX Security 2026).
+
+# Formal verification
+
+I've also contributed to formal-verification efforts for optimized assembly cryptographic programs,
+for example, the emulated floating-point arithmetic in Falcon (sole-authored, IWSEC 2024).
+
+# Current directions
+
+I'm currently accelerating the elliptic-curve discrete logarithm on H100 GPUs,
+implementing the NIST standard FN-DSA (Falcon) in assembly, and extending my
+low-level work to Armv9-A and AVX-512.
+
+# Selected credentials
+
+- 16 papers, mostly at **TCHES** (the field's top venue), plus **IEEE S&P** and **USENIX Security**
+- **Best Paper Award, IWSEC 2022** — NTT-based integer multiplication
+- **Sole author** of *A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems, CiC 2024)
+- **TCHES 2027** Program Committee / editorial board
+- PhD in cryptographic engineering, advised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) (Max Planck Institute for Security and Privacy).
+
+# Education
+
+- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [errata](./errata.md)
+- MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022)
+- BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
 
 # Contact
 - Email: vincentvbh7 at gmail dot com
