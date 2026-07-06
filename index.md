@@ -5,13 +5,15 @@
 from Cortex-M microcontrollers to Apple-M1/Armv8-A vector units and H100 GPUs
 — with formal-verification work alongside.**
 
+# About me
+
 Hi, there. I'm Vincent Hwang (黃柏文).
 I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startup based in Cambridge, Massachusetts, USA.
 
 I'm a cryptographic engineer: I take the high-level mathematics of (post-quantum) cryptography and turn it into optimized, real-world code. I position myself as a computer scientist who turns high-level ideas into optimized programs — usually through several iterations of algorithmic
 refinement and hand-written assembly.
 
-# High-performance implementation
+## High-performance implementation
 
 My core is the arithmetic of lattice-based schemes -- the polynomial multiplications behind NTRU, NTRU Prime, Saber, and the NIST standards ML-KEM and ML-DSA -- optimized across a wide range of platforms: Cortex-M3/M4 microcontrollers (including targets *without* powerful multiplication instructions), Armv8-A Neon on Cortex-A72 and Apple M1, and AVX2 on x86-64.
 These works draw on a full FFT/NTT toolbox -- Good--Thomas (and its incomplete/truncated variants),
@@ -19,39 +21,42 @@ Rader and truncated Rader, Schönhage, Nussbaumer, Bruun's FFT, Toeplitz matrix-
 I wrote the field's survey of polynomial multiplication for lattice-based cryptography (sole-authored, CiC 2024),
 and I also work at the protocol level (deniable, hybrid post-quantum AKEMs -- *Shadowfax*, USENIX Security 2026).
 
-# Formal verification
+## Formal verification
 
 I've also contributed to formal-verification efforts for optimized assembly cryptographic programs,
 for example, the emulated floating-point arithmetic in Falcon (sole-authored, IWSEC 2024).
 
-# Current directions
+## Current directions
 
 I'm currently accelerating the elliptic-curve discrete logarithm on H100 GPUs,
 implementing the NIST standard FN-DSA (Falcon) in assembly, and extending my
 low-level work to Armv9-A and AVX-512.
 
-# Selected credentials
+## Selected credentials
 
 - 16 papers, mostly at **TCHES** (the field's top venue), plus **IEEE S&P** and **USENIX Security**
-- **Best Paper Award, IWSEC 2022** — NTT-based integer multiplication
 - **Sole author** of *A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems, CiC 2024)
 - **TCHES 2027** Program Committee / editorial board
+- 27 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
+- 17 artifact reviews submitted as an AE member (2023 ~ 2026, mostly **TCHES**)
 - PhD in cryptographic engineering, advised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) (Max Planck Institute for Security and Privacy).
 
-# Education
-
-- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [errata](./errata.md)
-- MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022)
-- BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
-
-# Contact
+## Contact
 - Email: vincentvbh7 at gmail dot com
 
-# Curriculum Vitae
+## Curriculum Vitae
 - [Academic CV](./CV_academic.pdf) (version 2026-04-08).
 - [Industry CV](./CV_industry.pdf) (version 2026-04-06).
 
-# Service
+# Details
+
+## Education
+
+- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [errata](./errata.md).
+- MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022).
+- BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
+
+## Service
 - 2027:
     - Program Committee/Editorial Board Member of [TCHES 2027](https://ches.iacr.org/2027).
 
@@ -65,81 +70,97 @@ low-level work to Armv9-A and AVX-512.
 - 2023:
     - Artifact Review Committee Member of [TCHES 2023](https://ches.iacr.org/2023/) (x2)
 
-# Publications
+## Publications
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - 2026:
     - Shadowfax: Hybrid Security and Deniability for AKEMs
         - [Phillip Gajland](https://gaphil.github.io/), **Vincent Hwang**, [Jonas Janneck](https://jonasjanneck.org/)
         - [USENIX Security 2026, Cycle 1](https://www.usenix.org/conference/usenixsecurity26)
+        - Built the portable reference implementations.
         - [paper](https://www.usenix.org/conference/usenixsecurity26/presentation/gajland) [ePrint](https://eprint.iacr.org/2025/154) [code](https://github.com/vincentvbh/shadowfax)
 - 2025:
     - Proving Faster Implementations Faster: Combining Deductive and Circuit-Based Reasoning in EasyCrypt
         - [José Bacelar Almeida](https://www.inesctec.pt/en/people/jose-bacelar-almeida), [Manuel Barbosa](https://www.dcc.fc.up.pt/~mbb/), [Gilles Barthe](https://gbarthe.github.io/), Gustavo Xavier Delerue Marinho Alves, [Luís Esquível](https://www.inesctec.pt/en/people/luis-esquivel-costa), **Vincent Hwang**, Tiago Oliveira, [Hugo Pacheco](https://www.dcc.fc.up.pt/~hpacheco/), [Peter Schwabe](https://cryptojedi.org/peter/index.shtml), [Pierre-Yves Strub](https://www.strub.nu/)
         - [IEEE Security and Privacy 2025, Cycle 2](https://sp2025.ieee-security.org/index.html)
+        - Contributing author: proposed the compression-function optimizations and wrote that part (multi-team verification effort; not lead author).
         - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8) [ePrint](https://eprint.iacr.org/2025/1607)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
         - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
+        - Proposed and implemented the Cortex-M3 optimizations (generalized multi-limb Barrett multiplication); wrote the whole the paper except for the 8-bit AVR sections.
         - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_06.pdf) [slides](https://vincentvbh.github.io/slides/TCHES2025_1_21_slides.pdf) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
 - 2024:
     - Formal Verification of Emulated Floating-Point Arithmetic in Falcon
         - **Vincent Hwang**
         - [International Workshop on Security (IWSEC 2024)](https://www.iwsec.org/2024/)
+        - Sole author — verified, with CryptoLine, the functional equivalence and intermediate value-ranges of Falcon signing's emulated floating-point add/multiply.
         - [paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_7) [slides](https://vincentvbh.github.io/slides/IWSEC2024_1_slides.pdf) [code](https://github.com/vincentvbh/Float_formal) [ePrint](https://vincentvbh.github.io/papers/2024-321.pdf)
     - A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems
         - **Vincent Hwang**
         - [Communications in Cryptology (CiC 2024), Issue 2](https://cic.iacr.org/)
+        - Sole author — surveyed modular arithmetic, homomorphisms, and vectorization for rings ℤ_q[x]/⟨xⁿ − αx − β⟩.
         - [paper](https://vincentvbh.github.io/papers/CiC2024_2_1.pdf) [code](https://github.com/Polynomial-Multiplications-for-Lattices/Polynomial-Multiplications-for-Lattices) [ePrint](https://vincentvbh.github.io/papers/2023-1962.pdf)
     - Pushing the Limit of Vectorized Polynomial Multiplication for NTRU Prime
         - **Vincent Hwang**
         - [Australasian Conference for Security and Privacy (ACISP 2024)](https://www.acisp24.com/)
+        - Sole author — replaced Rader's FFT with truncated Rader's FFT; optimized NTRU Prime on Cortex-A72 Neon and Haswell AVX2.
         - [paper](https://link.springer.com/chapter/10.1007/978-981-97-5028-3_5) [slides](https://vincentvbh.github.io/slides/ACISP2024_2_97_slides.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime_truncation) [ePrint](https://vincentvbh.github.io/papers/2023-604.pdf)
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
         - **Vincent Hwang**, Chi-Ting Liu, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [Applied Cryptography and Network Security (ACNS 2024)](https://wp.nyu.edu/acns2024/)
+        - Proposed the optimizations and implemented Bruun's FFT and the fastest variant (Schönhage/Bruun/Good–Thomas/Rader, Cortex-A72 Neon); wrote the paper.
         - [paper](https://vincentvbh.github.io/papers/ACNS2024_1_21.pdf) [slides](https://vincentvbh.github.io/slides/ACNS2024_1_21_slides.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU_Prime) [ePrint](https://vincentvbh.github.io/papers/2023-1580.pdf)
 - 2023:
     - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
         - Han-Ting Chen, [Yi-Hua Chung](https://yi-huaaa.github.io/about/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [International Conference on Cryptology in India (INDOCRYPT 2023)](https://crsind.in/indocrypt2023/)
+        - Proposed the Toom–Cook improvement and the Toeplitz matrix–vector approach; integrated coauthors' multipliers; wrote the non-implementation parts.
         - [paper](https://vincentvbh.github.io/papers/INDOCRYPT2023_28.pdf) [slides](https://vincentvbh.github.io/slides/IndoCrypt2023_slides.pdf) [code](https://github.com/vector-polymul-ntru-ntrup/NTRU) [ePrint](https://vincentvbh.github.io/papers/2023-1637.pdf)
 - 2022:
     - Verified NTT Multiplications for NISTPQC KEM Lattice Finalists: Kyber, SABER, and NTRU
         - **Vincent Hwang**, Jiaxiang Liu, Gregor Seiler, Xiaomu Shi, Ming-Hsien Tsai, [Bow-Yaw Wang](https://homepage.iis.sinica.edu.tw/~bywang/), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
+        - Rewrote the NTRU Cortex-M4 assembly multiplication and documented its structure; contributing author on the CryptoLine verification (Cortex-M4 and AVX2).
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_26.pdf) [talk by Bo-Yin Yang](https://youtu.be/TSUtA5hmrtk?t=4011) [slides](https://vincentvbh.github.io/slides/TCHES2022_4_26_slides.pdf) [code](https://github.com/fmlab-iis/cryptoline)
     - Multi-Parameter Support with NTTs for NTRU and NTRU Prime on Cortex-M4
         - [Erdem Alkim](https://erdemalkim.github.io/), **Vincent Hwang**, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022), Issue 4](https://ches.iacr.org/2022/)
+        - Proposed the optimizations (incomplete Good–Thomas FFT for code size) and wrote the paper.
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_4_13.pdf) [talk by myself](https://youtu.be/TSUtA5hmrtk?t=2825) [slides](https://vincentvbh.github.io/slides/TCHES2022_4_13_slides.pdf) [code](https://github.com/vincentvbh/multi-params-ntt_NTRU_NTRUPrime) [ePrint](https://vincentvbh.github.io/papers/2022-930.pdf)
     - Efficient Multiplication of Somewhat Small Integers using Number-Theoretic Transforms (Best Paper Award)
         - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), [Lorenz Panny](https://yx7.cc/), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [International Workshop on Security (IWSEC 2022)](https://www.iwsec.org/2022/index.html)
+        - Contributed to the Cortex-M3 implementation (FFT-vs-schoolbook integer-multiplication crossover ≈ 2048 bits).
         - [paper](https://link.springer.com/chapter/10.1007/978-3-031-15255-9_1) [slides](https://vincentvbh.github.io/slides/20220831_ntt-int-mul_slides.pdf) [code](https://github.com/ntt-int-mul/ntt-int-mul-m3) [ePrint](https://vincentvbh.github.io/papers/2022-439.pdf)
     - Faster Kyber and Dilithium on the Cortex-M4
         - [Amin Abdulrahman](https://abdulrahman.de/), **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Amber Sprenkels](https://electricdusk.com/)
         - [Applied Cryptography and Network Security (ACNS 2022)](https://acns22.di.uniroma1.it/)
+        - Proposed the Fermat Number Transform for Dilithium's challenge product and a Kyber base-multiplication optimization; wrote those parts.
         - [paper](https://vincentvbh.github.io/papers/ACNS2022_202.pdf) [code](https://github.com/FasterKyberDilithiumM4/FasterKyberDilithiumM4) [ePrint](https://vincentvbh.github.io/papers/2022-112.pdf)
     - Neon NTT: Faster Dilithium, Kyber, and Saber on Cortex-A72 and Apple M1
         - Hanno Becker, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html), and Shang-Yi Yang
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
+        - Implemented the Armv8-A Neon optimizations and wrote those parts (paper introduced the multiplicative Barrett form and the Montgomery–Barrett correspondence).
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_08.pdf) [talk by Hanno Becker](https://youtu.be/TSUtA5hmrtk?t=1491) [slides](https://vincentvbh.github.io/slides/TCHES2022_1_08_slide.pptx) [code](https://github.com/neon-ntt/neon-ntt) [ePrint](https://vincentvbh.github.io/papers/2021-986.pdf)
     - Multi-moduli NTTs for Saber on Cortex-M3 and Cortex-M4
         - [Amin Abdulrahman](https://abdulrahman.de/), Jiun-Peng Chen, Yu-Jia Chen, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2022)](https://ches.iacr.org/2022/)
+        - Proposed the ideas; implemented the Cortex-M4 optimizations and the fastest Cortex-M3 approach (incl. masked M4); wrote those parts.
         - [paper](https://vincentvbh.github.io/papers/TCHES2022_1_05.pdf) [talk](https://youtu.be/TSUtA5hmrtk?t=179) [slides](https://vincentvbh.github.io/slides/TCHES2022_1_05_slides.pdf) [slide (updated)](https://vincentvbh.github.io/slides/TCHES2022_1_05_slides_updated.pdf) [code](https://github.com/multi-moduli-ntt-saber/multi-moduli-ntt-saber) [ePrint](https://vincentvbh.github.io/papers/2021-995.pdf)
 - 2021:
     - NTT Multiplication for NTT-unfriendly Rings
         - Chi-Ming Marvin Chung, **Vincent Hwang**, [Matthias J. Kannwischer](https://kannwischer.eu), Gregor Seiler, [Cheng-Jhih Shih](https://strongshih.github.io/), and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 2](https://ches.iacr.org/2021/)
+        - Deeply involved in the Cortex-M4 implementations (Good–Thomas; speed records for Saber and NTRU on Cortex-M4 and AVX2).
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_2_06.pdf) [talk](https://youtube.com/watch?v=a9_-jhD2ZG0) [slides](https://vincentvbh.github.io/slides/TCHES2021_2_06.slides.pdf) [code](https://github.com/ntt-polymul/ntt-polymul) [ePrint](https://vincentvbh.github.io/papers/2020-1397.pdf)
     - Polynomial Multiplication in NTRU Prime
         - [Erdem Alkim](https://erdemalkim.github.io/), Dean Yun-Li Cheng, Chi-Ming Marvin Chung, Hülya Evkan, Leo Wei-Lun Huang, **Vincent Hwang**, Ching-Lin Trista Li, [Ruben Niederhagen](http://polycephaly.org/), [Cheng-Jhih Shih](https://strongshih.github.io/), Julian Wälde, and [Bo-Yin Yang](https://homepage.iis.sinica.edu.tw/pages/byyang/index_en.html)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2021), Issue 1](https://ches.iacr.org/2021/)
+        - Deeply involved in the Good–Thomas implementation (Cortex-M4).
         - [paper](https://vincentvbh.github.io/papers/TCHES2021_1_09.pdf) [talk](https://youtube.com/watch?v=F95gXPfXrBA) [slides](https://vincentvbh.github.io/slides/TCHES2021_1_09_slides.pdf) [code](https://github.com/vincentvbh/NTRUPrime-PolyMul) [ePrint](https://vincentvbh.github.io/papers/2020-1216.pdf)
 
-# Technical Reports
+## Technical Reports
 - [IACR ePrint](https://eprint.iacr.org/search?q=%22Vincent+Hwang%22)
 - 2025:
 - 2024:
@@ -158,7 +179,7 @@ low-level work to Armv9-A and AVX-512.
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU
             - Algorithmic Views of Vectorized Polynomial Multipliers -- NTRU Prime
 
-# Talks (Conference talks excluded)
+## Talks (Conference talks excluded)
 - 2026:
     - Implementing Polynomial Multiplications for Lattice-Based Cryptography on Microcontrollers
         - [1st MMU-UTAR Post-Quantum Cryptography Symposium: Standards, Engineering and Applications](https://ccs.research.utar.edu.my/1st_MMU-UTAR_Post-Quantum_Cryptography_Symposium%3A_Standards%2C_Engineering_and_App.php)
