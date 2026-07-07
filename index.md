@@ -52,7 +52,7 @@ low-level work to Armv9-A and AVX-512.
 
 ## Education
 
-- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [errata](./errata.md).
+- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [updated](./dissertation.pdf).
 - MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022).
 - BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
 
