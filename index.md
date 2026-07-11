@@ -35,7 +35,7 @@ low-level work to Armv9-A and AVX-512.
 ## Selected credentials
 
 - 16 papers, mostly at **TCHES** (the field's top venue), plus **IEEE S&P** and **USENIX Security**
-- **Sole author** of *A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems, CiC 2024)
+- **Sole author** of *A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems (CiC 2024)
 - **TCHES 2027** Program Committee / editorial board
 - 27 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
 - 17 artifact reviews submitted as an AE member (2023 ~ 2026, mostly **TCHES**)
