@@ -39,7 +39,7 @@ low-level work to Armv9-A and AVX-512.
 - **TCHES 2027** Program Committee / editorial board
 - 27 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
 - 17 artifact reviews submitted as an AE member (2023 ~ 2026, mostly **TCHES**)
-- PhD in cryptographic engineering, advised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) (Max Planck Institute for Security and Privacy).
+- PhD in Cryptographic Engineering, advised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) (Max Planck Institute for Security and Privacy).
 
 ## Contact
 - Email: vincentvbh7 at gmail dot com
