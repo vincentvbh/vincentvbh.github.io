@@ -13,24 +13,7 @@ I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startu
 I'm a cryptographic engineer: I take the high-level mathematics of (post-quantum) cryptography and turn it into optimized, real-world code. I position myself as a computer scientist who turns high-level ideas into optimized programs — usually through several iterations of algorithmic
 refinement and hand-written assembly.
 
-## High-performance implementation
-
-My core is the arithmetic of lattice-based schemes -- the polynomial multiplications behind NTRU, NTRU Prime, Saber, and the NIST standards ML-KEM and ML-DSA -- optimized across a wide range of platforms: Cortex-M3/M4 microcontrollers (including targets *without* powerful multiplication instructions), Armv8-A Neon on Cortex-A72 and Apple M1, and AVX2 on x86-64.
-These works draw on a full FFT/NTT toolbox -- Good--Thomas (and its incomplete/truncated variants),
-Rader and truncated Rader, Schönhage, Nussbaumer, Bruun's FFT, Toeplitz matrix-vector products, and the Fermat number transform -- together with the Barrett/Montgomery multiplication.
-I wrote the field's survey of polynomial multiplication for lattice-based cryptography (sole-authored, CiC 2024),
-and I also work at the protocol level (deniable, hybrid post-quantum AKEMs -- *Shadowfax*, USENIX Security 2026).
-
-## Formal verification
-
-I've also contributed to formal-verification efforts for optimized assembly cryptographic programs,
-for example, the emulated floating-point arithmetic in Falcon (sole-authored, IWSEC 2024).
-
-## Current directions
-
-I'm currently accelerating the elliptic-curve discrete logarithm on H100 GPUs,
-implementing the NIST standard FN-DSA (Falcon) in assembly, and extending my
-low-level work to Armv9-A and AVX-512.
+[More about me](./more_about_me.html): high-performance implementation, formal verification, and current directions.
 
 ## Selected credentials
 
