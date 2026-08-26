@@ -35,7 +35,7 @@ low-level work to Armv9-A and AVX-512.
 ## Selected credentials
 
 - 16 papers, mostly at **TCHES** (the field's top venue), plus **IEEE S&P** and **USENIX Security**
-- **Sole author** of *A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems (CiC 2024)
+- **Sole author** of **A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems (CiC 2024)**
 - **TCHES 2027** Program Committee / editorial board
 - 27 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
 - 17 artifact reviews submitted as an AE member (2023 ~ 2026, mostly **TCHES**)
@@ -45,8 +45,8 @@ low-level work to Armv9-A and AVX-512.
 - Email: vincentvbh7 at gmail dot com
 
 ## Curriculum Vitae
-- [Academic CV](./CV_academic.pdf) (version 2026-04-08).
-- [Industry CV](./CV_industry.pdf) (version 2026-04-06).
+- [Academic CV](./CV_academic.pdf) (version 2026-08-26).
+- [Industry CV](./CV_industry.pdf) (version 2026-08-26).
 
 # Details
 
@@ -71,6 +71,7 @@ low-level work to Armv9-A and AVX-512.
     - Artifact Review Committee Member of [TCHES 2023](https://ches.iacr.org/2023/) (x2)
 
 ## Publications
+- [Publication list (PDF)](./pub.pdf) (version 2026-08-26).
 - [Google Scholar](https://scholar.google.com.ec/citations?user=idEjFxoAAAAJ&hl=en)
 - [DBLP](https://dblp.org/pid/277/3814.html)
 - Authors in alphabetic order
