@@ -52,23 +52,25 @@ low-level work to Armv9-A and AVX-512.
 
 ## Education
 
-- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ March 2026), [thesis](./dissertation_printed.pdf), [updated](./dissertation.pdf).
+- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ Apr. 2026); external PhD candidate at Radboud University, defended April 2026.
+    - Thesis: *Software Implementations of Polynomial Multiplications for Lattice-Based Cryptosystems* — [printed](./dissertation_printed.pdf), [updated](./dissertation.pdf).
 - MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022).
+    - Thesis: *Case Studies on Implementing Number-Theoretic Transforms with Armv7-M, Armv7E-M, and Armv8-A*.
 - BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
 
 ## Service
-- 2027:
-    - Program Committee/Editorial Board Member of [TCHES 2027](https://ches.iacr.org/2027).
 
-- 2026:
-    - Reviewer of [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2), Artifact Evaluation Committee Member of [TCHES 2026](https://ches.iacr.org/2026/) (x6), Artifact Review Committee of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4)
-- 2025:
-    - Reviewer of [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1)
-    - Artifact Evaluation Committee Member of [TCHES 2025](https://ches.iacr.org/2025/) (x5)
-- 2024:
-    - Reviewer of [Crypto 2024](https://crypto.iacr.org/2024/) (x1), [TCHES 2024](https://ches.iacr.org/2024/) (x3)
-- 2023:
-    - Artifact Review Committee Member of [TCHES 2023](https://ches.iacr.org/2023/) (x2)
+- **Editorial board**
+    - 2027: [TCHES 2027](https://ches.iacr.org/2027), Program Committee / Editorial Board Member.
+- **Reviewer**
+    - 2026: [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2).
+    - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1).
+    - 2024: [TCHES 2024](https://ches.iacr.org/2024/) (x3), [Crypto 2024](https://crypto.iacr.org/2024/) (x1).
+- **Artifact evaluation**
+    - 2026: [TCHES 2026](https://ches.iacr.org/2026/) (x6), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4).
+    - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x5).
+    - 2023: [TCHES 2023](https://ches.iacr.org/2023/) (x2).
+- (xn) = number of reviews submitted.
 
 ## Publications
 - [Publication list (PDF)](./pub.pdf) (version 2026-08-26).
