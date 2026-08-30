@@ -35,11 +35,11 @@ refinement and hand-written assembly.
 
 ## Education
 
-- PhD, Cryptographic Engineering, MPI-SP (Jan. 2023 ~ Apr. 2026); external PhD candidate at Radboud University, defended April 2026.
+- PhD, 8 papers, Jan. 2023 ~ Apr. 2026, Cryptographic Engineering, MPI-SP; external PhD candidate at Radboud University, defended April 2026.
     - Thesis: *Software Implementations of Polynomial Multiplications for Lattice-Based Cryptosystems* — [printed](./phd_dissertation_printed.pdf), [updated](./phd_dissertation.pdf).
-- MSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2021 ~ Jun. 2022).
+- MSc., 6 papers, Sept. 2021 ~ Jun. 2022, Department of Computer Science and Information Engineering, National Taiwan University.
     - Thesis: *Case Studies on Implementing Number-Theoretic Transforms with Armv7-M, Armv7E-M, and Armv8-A* — [thesis](./master_thesis.pdf).
-- BSc., Department of Computer Science and Information Engineering, National Taiwan University (Sept. 2016 ~ Jun. 2021).
+- BSc., 2 papers, Sept. 2016 ~ Jun. 2021, Department of Computer Science and Information Engineering, National Taiwan University .
 
 ## Service
 
@@ -50,7 +50,7 @@ refinement and hand-written assembly.
     - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1).
     - 2024: [TCHES 2024](https://ches.iacr.org/2024/) (x3), [Crypto 2024](https://crypto.iacr.org/2024/) (x1).
 - **Artifact evaluation**
-    - 2026: [TCHES 2026](https://ches.iacr.org/2026/) (x6), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4).
+    - 2026: [TCHES 2026](https://ches.iacr.org/2026/) (x9), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4).
     - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x5).
     - 2023: [TCHES 2023](https://ches.iacr.org/2023/) (x2).
 - (xn) = number of reviews submitted.
