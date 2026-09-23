@@ -1,5 +1,5 @@
 
-[TCHES 2027, Cycle 1](https://ches.iacr.org/2027) is open for [submissions](https://submit.iacr.org/tches2027_1/). [Deadline](https://ches.iacr.org/2027/callforpapers.php) July 15, AOE.
+[TCHES 2027, Cycle 2](https://ches.iacr.org/2027) will be open for [submissions](https://submit.iacr.org/tches2027_2/). [Deadline](https://ches.iacr.org/2027/callforpapers.php) October 15, AOE.
 
 **Cryptographic engineer specializing in fast cryptographic implementations —
 from Cortex-M microcontrollers to Apple-M1/Armv8-A vector units and H100 GPUs
@@ -44,7 +44,7 @@ refinement and hand-written assembly.
 ## Service
 
 - **Editorial board**
-    - 2027: [TCHES 2027](https://ches.iacr.org/2027), Program Committee / Editorial Board Member.
+    - 2027: [TCHES 2027](https://ches.iacr.org/2027) (x6), Program Committee / Editorial Board Member.
 - **Reviewer**
     - 2026: [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2).
     - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1).
