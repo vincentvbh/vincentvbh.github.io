@@ -13,7 +13,7 @@ I'm currently (2026-04-01) a Senior Software Engineer at Qinvicta Inc., a startu
 I'm a cryptographic engineer: I take the high-level mathematics of (post-quantum) cryptography and turn it into optimized, real-world code. I position myself as a computer scientist who turns high-level ideas into optimized programs — usually through several iterations of algorithmic
 refinement and hand-written assembly.
 
-[More about me](./more_about_me.html): high-performance implementation, formal verification, and current directions.
+[More about me](./more_about_me.html): high-performance implementation, formal verification, and protocol level.
 
 ## Selected credentials
 
@@ -44,12 +44,12 @@ refinement and hand-written assembly.
 ## Service
 
 - **Editorial board**
-    - 2027: [TCHES 2027](https://ches.iacr.org/2027) (x6), Program Committee / Editorial Board Member.
+    - 2027: [TCHES 2027](https://ches.iacr.org/2027) (x6), Program Committee / Editorial Board.
 - **Reviewer**
     - 2026: [TCHES 2026](https://ches.iacr.org/2026) (x8), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x1), [Crypto 2026](https://crypto.iacr.org/2026/) (x2).
     - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x8), [ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025/) (x1), [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/) (x2), [Journal of Cryptographic Engineering](https://link.springer.com/journal/13389) (x1).
     - 2024: [TCHES 2024](https://ches.iacr.org/2024/) (x3), [Crypto 2024](https://crypto.iacr.org/2024/) (x1).
-- **Artifact evaluation**
+- **Artifact Evaluation Committee**
     - 2026: [TCHES 2026](https://ches.iacr.org/2026/) (x9), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) (x4).
     - 2025: [TCHES 2025](https://ches.iacr.org/2025/) (x5).
     - 2023: [TCHES 2023](https://ches.iacr.org/2023/) (x2).
