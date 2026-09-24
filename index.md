@@ -35,7 +35,7 @@ refinement and hand-written assembly.
 
 ## Education
 
-- PhD, 8 papers, Jan. 2023 ~ Apr. 2026, Cryptographic Engineering, MPI-SP; external PhD candidate at Radboud University, defended April 2026.
+- PhD, 8 papers, Jan. 2023 ~ Apr. 2026, Cryptographic Engineering, MPI-SP; external PhD candidate at Radboud University, thesis submitted July 2025, defended April 2026.
     - Thesis: *Software Implementations of Polynomial Multiplications for Lattice-Based Cryptosystems* — [printed](./phd_dissertation_printed.pdf), [updated](./phd_dissertation.pdf).
 - MSc., 6 papers, Sept. 2021 ~ Jun. 2022, Department of Computer Science and Information Engineering, National Taiwan University.
     - Thesis: *Case Studies on Implementing Number-Theoretic Transforms with Armv7-M, Armv7E-M, and Armv8-A* — [thesis](./master_thesis.pdf).
