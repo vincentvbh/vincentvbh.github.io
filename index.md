@@ -19,9 +19,9 @@ refinement and hand-written assembly.
 
 - 16 papers, mostly at **TCHES** (the field's top venue), plus **IEEE S&P** and **USENIX Security**
 - **Sole author** of **A Survey of Polynomial Multiplications for Lattice-Based Cryptosystems (CiC 2024)**
-- **TCHES 2027** Program Committee / editorial board
-- 33 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
-- 17 artifact reviews submitted as an AE member (2023 ~ 2026, mostly **TCHES**)
+- **TCHES 2027** Program Committee / editorial board (6 reviews submitted)
+- 27 reviews submitted as a subreviewer / external reviewer (2024 ~ 2026, mostly at **TCHES**)
+- 20 artifact reviews submitted as an AEC member (2023 ~ 2026, mostly **TCHES**)
 - PhD in Cryptographic Engineering, advised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml) (樂岩) (Max Planck Institute for Security and Privacy).
 
 ## Contact
