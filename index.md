@@ -1,5 +1,5 @@
 
-[TCHES 2027, Cycle 2](https://ches.iacr.org/2027) will be open for [submissions](https://submit.iacr.org/tches2027_2/). [Deadline](https://ches.iacr.org/2027/callforpapers.php) October 15, AOE.
+[TCHES 2027, Cycle 2](https://ches.iacr.org/2027) is opened for [submissions](https://submit.iacr.org/tches2027_2/). [Deadline](https://ches.iacr.org/2027/callforpapers.php) October 15, AOE.
 
 **Cryptographic engineer specializing in fast cryptographic implementations —
 from Cortex-M microcontrollers to Apple-M1/Armv8-A vector units and H100 GPUs
@@ -73,7 +73,7 @@ refinement and hand-written assembly.
         - Contributing author: proposed the compression-function optimizations and wrote that part (multi-team verification effort; not lead author).
         - [paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d526/26hiVyFN8o8) [ePrint](https://eprint.iacr.org/2025/1607)
     - Multiplying Polynomials without Powerful Multiplication Instructions (Long Paper)
-        - **Vincent Hwang**, [YoungBeom Kim](https://whybe.notion.site/YoungBeom-Kim-217f1235666e4e368565767c0bdc0926), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
+        - **Vincent Hwang**, [YoungBeom Kim](https://www.ybgraphy.com/), and [Seog Chung Seo](https://sites.google.com/kookmin.ac.kr/cselab/members/professor)
         - [IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES 2025), Issue 1](https://ches.iacr.org/2025/)
         - Proposed and implemented the Cortex-M3 optimizations (generalized multi-limb Barrett multiplication); wrote the whole the paper except for the 8-bit AVR sections.
         - [paper](https://vincentvbh.github.io/papers/TCHES2025_1_06.pdf) [slides](https://vincentvbh.github.io/slides/TCHES2025_1_21_slides.pdf) [TCHES artifact](https://artifacts.iacr.org/tches/2025/a1/) [code](https://github.com/vincentvbh/PolyMul_Without_PowerfulMul) [ePrint](https://eprint.iacr.org/2024/1649)
